@@ -62,10 +62,11 @@ Heuristics for effective management.
 
 ## Feedback
 
+1. Be prompt, ideally providing feedback the same day of the event that prompted it.
 1. Get buy-in about providing feedback and reduce mystery:
-    - "Do you have 10 minutes to talk about your last pull request?"
+    - "Do you have 10 minutes to talk about this morning's stand up?"
     - "Can I share some thoughts with you about how we've been working together?""
-1. Don't "pad" by beginning with compliments; it gives mixed signals.
+1. Don't "pad" by beginning with compliments - it gives mixed signals.
 1. Focus on data and not behavior:
     - "I noticed you didn't address any of the comments made in your last three PRs"
     - "I noticed that you didn't pick up the ticket I asked you to do"
@@ -76,6 +77,8 @@ Heuristics for effective management.
     - "I mention it because it's important we work as a team"
     - "I mention it because the ticket I assigned you is critical to this quarter's roadmap"
 1. Figure out together how to fix the problem:
-    - Agree to an action plan
     - "What do you think of our process?"
     - "How do you see it?"
+1. Agree on an action plan:
+    - "How do we ensure we don't miss a ticket due date next time?"
+    - "What are our actoin items?"
