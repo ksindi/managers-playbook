@@ -81,4 +81,4 @@ Heuristics for effective management.
     - "How do you see it?"
 1. Agree on an action plan:
     - "How do we ensure we don't miss a ticket due date next time?"
-    - "What are our actoin items?"
+    - "What are our action items?"
