@@ -82,3 +82,20 @@ Heuristics for effective management.
 1. Agree on an action plan:
     - "How do we ensure we don't miss a ticket due date next time?"
     - "What are our action items?"
+
+## Making decisions
+
+1. Determine if the decision is [reversible vs. irreversible](https://fs.blog/2018/04/reversible-irreversible-decisions/).
+  - Reversible decisions can easily be changed. Examples: changing stand up time, contributing guidelines.
+  - Irreversible decisions cannot be changed without significant rework. These decisions should take
+  longer and be documented and discussed. Examples: architecture changes, language decision, data models.  
+1. Whenever there is disagreement, focus on the intended outcome of the decision and make sure the team
+is aware of your reasoning.
+  - "While database X is better, I want us to standardize on one stack so that it's easier to maintain."
+1. If someone disagrees with a reversible decision, set a date to revisit that decision with the team.
+Ideally you also have metrics to define the success of that decision.
+  - "I understand your concerns. Let's revisit this in a month and see where we stand."
+  - "We're tracking X now, let's revisit next quarter if it improves with these changes."
+1. If someone disagrees with an irreversible decision, give them the opportunity to present their case.
+Regardless, everyone should be aware the decision is ultimately yours and the team needs
+to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made.
