@@ -1,6 +1,7 @@
 [one-on-ones]: https://github.com/ksindi/managers-playbook/blob/master/README.md#one-on-ones
 [giving-advice]: https://github.com/ksindi/managers-playbook/blob/master/README.md#giving-advice
 [feedback]: https://github.com/ksindi/managers-playbook/blob/master/README.md#feedback
+[making-decisions]: https://github.com/ksindi/managers-playbook/blob/master/README.md#making-decisions
 
 # Manager's Playbook
 
@@ -11,6 +12,7 @@ Heuristics for effective management.
 1. [One on ones][one-on-ones]
 1. [Giving advice][giving-advice]
 1. [Feedback][feedback]
+1. [Making decisions][making-decisions]
 
 ## One on ones
 
