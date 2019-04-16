@@ -133,6 +133,6 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 ## Meetings
 
-- Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Meetings should be for decisioning. Encourage others to research the problem and make a proposal coming into a meeting.
-- If no decision is made, have a note taker and always end a meeting with actions, owners and timing.
-- Encourage ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
+1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Meetings should be for decisioning. Encourage others to research the problem and make a proposal coming into a meeting.
+1. If no decision is made, have a note taker and always end a meeting with actions, owners and timing.
+1. Encourage ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
