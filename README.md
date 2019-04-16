@@ -114,7 +114,6 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 1. As a rule of thumb, a manager should spend their time coding roughly `(1 - NUM_DIRECT_REPORTS * 10%)%`.
 1. Even when not coding, managers should be getting their "hands dirty" and contributing in different ways:
     <img src="images/non-coding-contributions.jpg" width="400">  
-    [credit](https://twitter.com/deniseyu21/status/1112494446040489984)
 1. If managing more than 5 people, avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
     - Authoring a feature?  ⛔️
     - Covering on-call when someone needs a break?  ✅
