@@ -2,6 +2,9 @@
 [giving-advice]: https://github.com/ksindi/managers-playbook/blob/master/README.md#giving-advice
 [feedback]: https://github.com/ksindi/managers-playbook/blob/master/README.md#feedback
 [making-decisions]: https://github.com/ksindi/managers-playbook/blob/master/README.md#making-decisions
+[coding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coding
+[ticket-and-pr-process]: https://github.com/ksindi/managers-playbook/blob/master/README.md#ticket-and-pr-process
+[meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
 
 # Manager's Playbook
 
@@ -13,6 +16,9 @@ Heuristics for effective management.
 1. [Giving advice][giving-advice]
 1. [Feedback][feedback]
 1. [Making decisions][making-decisions]
+1. [Coding][coding]
+1. [Ticket and PR process][ticket-and-pr-process]
+1. [Meetings][meetings]
 
 ## One on ones
 
@@ -50,6 +56,7 @@ Heuristics for effective management.
         1. How do you feel about the amount of feedback you are getting?
         1. I need feedback. What are two things that I can do differently?
         1. What's one thing we could do to improve our way of collaborating?
+1. Encourage your direct reports for bringing up issues in 1-1. Great [zine](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/) by [Julia Evans](https://twitter.com/b0rk) for this.
 
 ## Giving advice
 
@@ -101,3 +108,31 @@ Ideally you also have metrics to define the success of that decision.
 1. If someone disagrees with an irreversible decision, give them the opportunity to present their case.
 Regardless, everyone should be aware the decision is ultimately yours and the team needs
 to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made.
+
+## Coding
+
+1. As a rule of thumb, a manager should spend their time coding roughly `(1 - NUM_DIRECT_REPORTS * 10%)%`.
+1. Even when not coding, managers should be getting their "hands dirty" and contributing in different ways:
+    ![Non-coding contributions](images/non-coding-contributions.jpg)
+    [credit](https://twitter.com/deniseyu21/status/1112494446040489984)
+1. If managing more than 5 people, avoid coding in the critical path. [mipsytipsy](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
+  * Authoring a feature?  ⛔️
+  * Covering on-call when someone needs a break?  ✅
+  * Diving on the biggest project after a postmortem?  ⛔️
+  * Code reviews?  ✅
+  * Picking up a p2 bug that's annoying but never seems to become top priority?  ✅
+  * Insisting that all commits be gated on their approval?  ⛔️
+  * Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
+
+# Ticket and PR process
+
+1. Set contributing guidelines for the team.
+1. PRs should always be prioritized. Aim for review SLA of 1 hour.
+1. Limit WIP tickets by an engineer to max 2.
+1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
+
+## Meetings
+
+- Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Meetings should be for decisioning. Encourage others to research the problem and make a proposal coming into a meeting.
+- If no decision is made, have a note taker and always end a meeting with actions, owners and timing.
+- Encourage ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
