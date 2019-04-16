@@ -113,7 +113,7 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 1. As a rule of thumb, a manager should spend their time coding roughly `(1 - NUM_DIRECT_REPORTS * 10%)%`.
 1. Even when not coding, managers should be getting their "hands dirty" and contributing in different ways:
-    ![Non-coding contributions](images/non-coding-contributions.jpg)
+    <img src="images/non-coding-contributions.jpg" width="400">  
     [credit](https://twitter.com/deniseyu21/status/1112494446040489984)
 1. If managing more than 5 people, avoid coding in the critical path. [mipsytipsy](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
   * Authoring a feature?  ⛔️
@@ -124,7 +124,7 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
   * Insisting that all commits be gated on their approval?  ⛔️
   * Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
 
-# Ticket and PR process
+## Ticket and PR process
 
 1. Set contributing guidelines for the team.
 1. PRs should always be prioritized. Aim for review SLA of 1 hour.
