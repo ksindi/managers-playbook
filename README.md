@@ -56,7 +56,8 @@ Heuristics for effective management.
         1. How do you feel about the amount of feedback you are getting?
         1. I need feedback. What are two things that I can do differently?
         1. What's one thing we could do to improve our way of collaborating?
-1. Encourage your direct reports for bringing up issues in 1-1. Great [zine](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/) by [Julia Evans](https://twitter.com/b0rk) for this.
+1. Encourage your direct reports to bring up topics in 1-1. [Julia Evans](https://twitter.com/b0rk) made a great [zine](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/) on it:
+    <img src="images/1_1s.jpg" width="400">  
 
 ## Giving advice
 
@@ -138,5 +139,13 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 ## Meetings
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Meetings should be for decisioning. Encourage others to research the problem and make a proposal coming into a meeting.
-1. If no decision is made, have a note taker and always end a meeting with actions, owners and timing.
+1. Have a note taker and always end a meeting with actions, owners and timing.
 1. Encourage ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
+
+## Onboarding
+
+TODO
+
+## Announcing change
+
+TODO
