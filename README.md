@@ -37,25 +37,25 @@ Heuristics for effective management.
     - Belonging: Your feeling of connection to the team?
 1. Additional questions to ask on a less frequent basis:
     1. Motivators:
-      1. Which part of your work is most fun?
-      1. What's not fun about working here?
-      1. What are the biggest time wasters for you each week?
+        1. Which part of your work is most fun?
+        1. What's not fun about working here?
+        1. What are the biggest time wasters for you each week?
     1. Long term goals:
-      1. What skills do you want to improve?
-      1. What career path are you looking for?
-      1. Who in the company would you be excited to learn more from?
-      1. What parts of the business would you like to be more involved in?
+        1. What skills do you want to improve?
+        1. What career path are you looking for?
+        1. Who in the company would you be excited to learn more from?
+        1. What parts of the business would you like to be more involved in?
     1. Organization awareness:
-      1. What don't you like about the product?
-      1. What's the biggest opportunity that we're missing out on?
-      1. What do you see as your top 3 priorities this quarter? The team’s? The org's?
-      1. If you were CEO, what would you do differently?
+        1. What don't you like about the product?
+        1. What's the biggest opportunity that we're missing out on?
+        1. What do you see as your top 3 priorities this quarter? The team’s? The org's?
+        1. If you were CEO, what would you do differently?
     1. Manager's role:
-      1. What could I do to support you better?
-      1. If you were me, what changes would you make?
-      1. How do you feel about the amount of feedback you are getting?
-      1. I need feedback. What are two things that I can do differently?
-      1. What's one thing we could do to improve our way of collaborating?
+        1. What could I do to support you better?
+        1. If you were me, what changes would you make?
+        1. How do you feel about the amount of feedback you are getting?
+        1. I need feedback. What are two things that I can do differently?
+        1. What's one thing we could do to improve our way of collaborating?
 1. Encourage your direct reports for bringing up issues in 1-1. Great [zine](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/) by [Julia Evans](https://twitter.com/b0rk) for this.
 
 ## Giving advice
