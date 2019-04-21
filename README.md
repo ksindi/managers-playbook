@@ -74,7 +74,7 @@ Heuristics for effective management.
 1. Be prompt, ideally providing feedback the same day of the event that prompted it.
 1. Be specific even if it's positive feedback.
     - "Good job!"  ⛔️
-    - "I really like you took the initiative to the program's memory footprint"
+    - "I like the initiative you took to reduce the service's memory footprint"
 1. Get buy-in about providing feedback and reduce mystery:
     - "Do you have 10 minutes to talk about this morning's stand up?"
     - "Can I share some thoughts with you about how we've been working together?"
