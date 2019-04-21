@@ -22,7 +22,7 @@ Heuristics for effective management.
 
 ## One on ones
 
-1. Never skip one on ones. It's the best platform for getting and providing feedback.
+1. Never skip one on ones. It's the best platform for getting and providing feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
 1. Focus on 5 topics every meeting:
     - Predictability: create routine, set expectations, normalize change.
     - Ownership: offer options, clarify ownership, give more responsibilities.
@@ -37,25 +37,25 @@ Heuristics for effective management.
     - Belonging: Your feeling of connection to the team?
 1. Additional questions to ask on a less frequent basis:
     1. Motivators:
-        1. Which part of your work is most fun?
-        1. What's not fun about working here?
-        1. What are the biggest time wasters for you each week?
+      1. Which part of your work is most fun?
+      1. What's not fun about working here?
+      1. What are the biggest time wasters for you each week?
     1. Long term goals:
-        1. What skills do you want to improve?
-        1. What career path are you looking for?
-        1. Who in the company would you be excited to learn more from?
-        1. What parts of the business would you like to be more involved in?
+      1. What skills do you want to improve?
+      1. What career path are you looking for?
+      1. Who in the company would you be excited to learn more from?
+      1. What parts of the business would you like to be more involved in?
     1. Organization awareness:
-        1. What don't you like about the product?
-        1. What's the biggest opportunity that we're missing out on?
-        1. What do you see as your top 3 priorities this quarter? The team’s? The org's?
-        1. If you were CEO, what would you do differently?
+      1. What don't you like about the product?
+      1. What's the biggest opportunity that we're missing out on?
+      1. What do you see as your top 3 priorities this quarter? The team’s? The org's?
+      1. If you were CEO, what would you do differently?
     1. Manager's role:
-        1. What could I do to support you better?
-        1. If you were me, what changes would you make?
-        1. How do you feel about the amount of feedback you are getting?
-        1. I need feedback. What are two things that I can do differently?
-        1. What's one thing we could do to improve our way of collaborating?
+      1. What could I do to support you better?
+      1. If you were me, what changes would you make?
+      1. How do you feel about the amount of feedback you are getting?
+      1. I need feedback. What are two things that I can do differently?
+      1. What's one thing we could do to improve our way of collaborating?
 1. Encourage your direct reports for bringing up issues in 1-1. Great [zine](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/) by [Julia Evans](https://twitter.com/b0rk) for this.
 
 ## Giving advice
@@ -72,16 +72,19 @@ Heuristics for effective management.
 ## Feedback
 
 1. Be prompt, ideally providing feedback the same day of the event that prompted it.
+1. Be specific even if it's positive feedback.
+    - "Good job!"  ⛔️
+    - "I really like you took the initiative to the program's memory footprint"
 1. Get buy-in about providing feedback and reduce mystery:
     - "Do you have 10 minutes to talk about this morning's stand up?"
-    - "Can I share some thoughts with you about how we've been working together?""
+    - "Can I share some thoughts with you about how we've been working together?"
 1. Don't "pad" by beginning with compliments - it gives mixed signals.
 1. Focus on data and not behavior:
     - "I noticed you didn't address any of the comments made in your last three PRs"
     - "I noticed that you didn't pick up the ticket I asked you to do"
     - "I noticed your last feature release didn't have any tests"
-    - DON'T "Your code is buggy"
-    - DON'T "You are always late"
+    - "Your code is buggy"  ⛔️
+    - "You are always late"  ⛔️
 1. Talk about why this matters and who it's affecting:
     - "I mention it because it's important we work as a team"
     - "I mention it because the ticket I assigned you is critical to this quarter's roadmap"
@@ -90,7 +93,9 @@ Heuristics for effective management.
     - "How do you see it?"
 1. Agree on an action plan:
     - "How do we ensure we don't miss a ticket due date next time?"
+    - "What are a couple of actions you could take right now?"
     - "What are our action items?"
+1. More on feedback: [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
 
 ## Making decisions
 
