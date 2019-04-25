@@ -30,7 +30,7 @@ Heuristics for effective management.
     - Progress: create milestones, share wins, celebrate progress.
     - Belonging: team culture and management.
 1. Questions to help frame each topic. "On a scale of 1-10 how would you rate:..."
-    - Predictability: How clear you feel about what's expected of you?
+    - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
     - Purpose: How much your work makes a difference for the team?
     - Progress: The sense of progression each week?
