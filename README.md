@@ -133,7 +133,6 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 1. Set contributing guidelines for the team.
 1. PRs should always be prioritized. Aim for review SLA of 1 hour.
-1. Limit WIP tickets by an engineer to max 2.
 1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
 
 ## Meetings
