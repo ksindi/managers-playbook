@@ -178,7 +178,7 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 ## Hiring
 
-> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. Randall E. Stross
+> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. – Randall E. Stross
 
 Hiring is the most important decision a manager makes.
 
