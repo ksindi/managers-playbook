@@ -121,7 +121,7 @@ Heuristics for effective management.
     - "What are a couple of actions you could take right now?"
     - "What are our action items?"
 1. Highlight positive patterns (remember to be specific).
-1. Replay instinctive reactions to help frame the conversation:
+1. Replay instinctive reactions to help frame the conversation:  
     <img src="images/replay-instinctive-reactions.png" width="400">
 1. Resources on feedback
     1. [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy): focus on replaying positive performance so team members know how to repeat excellence.
