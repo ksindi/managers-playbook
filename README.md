@@ -1,10 +1,15 @@
+[principles]: https://github.com/ksindi/managers-playbook/blob/master/README.md#principles
 [one-on-ones]: https://github.com/ksindi/managers-playbook/blob/master/README.md#one-on-ones
 [giving-advice]: https://github.com/ksindi/managers-playbook/blob/master/README.md#giving-advice
 [feedback]: https://github.com/ksindi/managers-playbook/blob/master/README.md#feedback
+[thinking-strategically]: https://github.com/ksindi/managers-playbook/blob/master/README.md#thinking-strategically
 [making-decisions]: https://github.com/ksindi/managers-playbook/blob/master/README.md#making-decisions
 [coding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coding
 [ticket-and-pr-process]: https://github.com/ksindi/managers-playbook/blob/master/README.md#ticket-and-pr-process
 [meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
+[hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
+[onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
+[announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
 
 # Manager's Playbook
 
@@ -12,15 +17,18 @@ Heuristics for effective management.
 
 ## Table of Contents
 
-1. [Principles][principlse]
+1. [Principles][principles]
 1. [One on ones][one-on-ones]
 1. [Giving advice][giving-advice]
 1. [Feedback][feedback]
-1. [Thinking Strategically][thinking-strategically]
+1. [Thinking strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
 1. [Coding][coding]
 1. [Ticket and PR process][ticket-and-pr-process]
 1. [Meetings][meetings]
+1. [Hiring][hiring]
+1. [Onboarding][onboarding]
+1. [Accouncing change][announcing-change]
 
 ## Principles
 
@@ -118,7 +126,7 @@ Heuristics for effective management.
 1. Resources on feedback
     1. [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy): focus on replaying positive performance so team members know how to repeat excellence.
 
-## Thinking Strategically
+## Thinking strategically
 
 1. What would you do with more one person?
 1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
