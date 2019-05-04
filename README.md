@@ -20,6 +20,20 @@ Heuristics for effective management.
 1. [Ticket and PR process][ticket-and-pr-process]
 1. [Meetings][meetings]
 
+## Principles
+
+1. Always be aware of what's going on in your team and product.
+1. Know the architecture just as well as anyone else; and stay current with the tech stack. Also, be aware how your team's architecture connects to other teams.
+1. Schedule 1-1s with your direct reports on a weekly or bi-weekly basis.
+1. Be customer-focused. Understand how our products are used in the wild. For example, join support calls.
+1. Set aggressive but achievable goals, and invest in clear tenets to guide your program.
+1. Think "glocally". Combine the local priorities of your team with the overarching goals of the company. 
+1. When giving advice or feedback, ask open questions to encourage ownership.
+1. Have a bias for action and decision-making over planning and consensus.
+1. Know to differentiate between reversible vs. irreversible decisions.
+1. No task is below a manager. Get your hands dirty even if it's not always coding:
+    <img src="images/non-coding-contributions.jpg" width="400">
+
 ## One on ones
 
 1. Never skip one on ones. It's the best platform for getting and providing feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
@@ -98,6 +112,15 @@ Heuristics for effective management.
     - "What are our action items?"
 1. More on feedback: [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
 
+## Thinking Strategically
+
+1. What would you do with more one person?
+1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
+1. What are your products' respective mission and tenets?
+1. What pillars are your team driving and in what way?
+1. What are your team's pain points? How can you move 2x?
+1. What "dogs not barking" do you worry about? What are areas in your team you worry about?
+
 ## Making decisions
 
 1. Determine if the decision is [reversible vs. irreversible](https://fs.blog/2018/04/reversible-irreversible-decisions/).
@@ -118,9 +141,7 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 ## Coding
 
 1. As a rule of thumb, a manager should spend their time coding roughly `(100 - NUM_DIRECT_REPORTS * 10)%`.
-1. Even when not coding, managers should be getting their "hands dirty" and contributing in different ways:
-    <img src="images/non-coding-contributions.jpg" width="400">  
-1. If managing more than 8 people, avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
+1. Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
     - Authoring a feature?  ⛔️
     - Covering on-call when someone needs a break?  ✅
     - Diving on the biggest project after a postmortem?  ⛔️
@@ -138,12 +159,48 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 ## Meetings
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Meetings should be for decisioning. Encourage others to research the problem and make a proposal coming into a meeting.
-1. Have a note taker and always end a meeting with actions, owners and timing.
+1. Always end a meeting with actions, owners and timing.
 1. Encourage ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
+
+## Hiring
+
+> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. Randall E. Stross
+
+Hiring is the most important decision a manager makes.
+
+What to look for:
+
+* **Passion for technology**. Does the candidate contribute to open source, personal projects, write articles, teach others, host meetups?
+* **Passion for your team or company's mission**.
+* **Enjoys team work**. Make sure to evaluate group problem solving with candidate in interview. Does the candidate take feedback well?
+
+What to watch out for:
+
+* **Short tenure at companies**. If a candidate typically stays at companies for less than a year, ask them why. There might be perfectly valid reasons or it might indicate a pattern that the person is difficult to work with.
 
 ## Onboarding
 
-TODO
+Having a good onboarding process is crucial to the success of your team and new team members. It insures team members are contributing as early as possible and assimilated your team.
+
+An onboarding process is successful if your new team member can contribute a bug fix on the first day of joining.
+
+Create a space in Confluence that includes:
+
+1. Team mission
+    1. How is your team moving the needle for the customer?
+1. Team members
+1. Repositories and services
+1. Documentation:
+    1. Code contributing guidelines
+    1. Ticketing process. E.g. label and story pointing guidelines.
+    1. Glossary of terms.
+    1. Releasing code.
+    1. How tos (e.g. migrate database, add secrets)
+1. Getting started:
+    1. Installation instructions (e.g. Docker, postgres).
+    1. Getting the right accesses (e.g. PagerDuty).
+    1. Running your apps locally.
+1. Meeting setups. Who should your new team member meet with?
 
 ## Announcing change
 
