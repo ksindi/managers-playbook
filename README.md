@@ -12,9 +12,11 @@ Heuristics for effective management.
 
 ## Table of Contents
 
+1. [Principles][principlse]
 1. [One on ones][one-on-ones]
 1. [Giving advice][giving-advice]
 1. [Feedback][feedback]
+1. [Thinking Strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
 1. [Coding][coding]
 1. [Ticket and PR process][ticket-and-pr-process]
@@ -110,7 +112,11 @@ Heuristics for effective management.
     - "How do we ensure we don't miss a ticket due date next time?"
     - "What are a couple of actions you could take right now?"
     - "What are our action items?"
-1. More on feedback: [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
+1. Highlight positive patterns (remember to be specific).
+1. Replay instinctive reactions to help frame the conversation:
+    <img src="images/replay-instinctive-reactions.png" width="400">
+1. Resources on feedback
+    1. [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy): focus on replaying positive performance so team members know how to repeat excellence.
 
 ## Thinking Strategically
 
