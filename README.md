@@ -33,13 +33,13 @@ Heuristics for effective management.
 ## Principles
 
 1. Always be aware of what's going on in your team and product.
-1. Know the architecture just as well as anyone else; and stay current with the tech stack. Also, be aware how your team's architecture connects to other teams.
+1. Know the architecture just as well as anyone else — and stay current with the tech stack.
 1. Schedule 1-1s with your direct reports on a weekly or bi-weekly basis.
 1. Be customer-focused. Understand how your products are used in the wild. For example, join sales and support calls.
 1. Set aggressive but achievable goals, and invest in clear tenets to guide your program.
-1. When giving advice or feedback, ask open questions to encourage ownership.
+1. When giving advice or feedback, encourage ownership by asking open questions.
 1. Have a bias for action and decision-making over planning and consensus.
-1. Know to differentiate between reversible and irreversible decisions.
+1. Know to differentiate between [reversible and irreversible decisions][making-decisions].
 1. No task is below a manager. Get your hands dirty even if it's not always coding:
     <img src="images/non-coding-contributions.jpg" width="400">
 
