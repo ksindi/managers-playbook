@@ -28,19 +28,18 @@ Heuristics for effective management.
 1. [Meetings][meetings]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
-1. [Accouncing change][announcing-change]
+1. [Announcing change][announcing-change]
 
 ## Principles
 
 1. Always be aware of what's going on in your team and product.
 1. Know the architecture just as well as anyone else; and stay current with the tech stack. Also, be aware how your team's architecture connects to other teams.
 1. Schedule 1-1s with your direct reports on a weekly or bi-weekly basis.
-1. Be customer-focused. Understand how our products are used in the wild. For example, join support calls.
+1. Be customer-focused. Understand how your products are used in the wild. For example, join sales and support calls.
 1. Set aggressive but achievable goals, and invest in clear tenets to guide your program.
-1. Think "glocally". Combine the local priorities of your team with the overarching goals of the company. 
 1. When giving advice or feedback, ask open questions to encourage ownership.
 1. Have a bias for action and decision-making over planning and consensus.
-1. Know to differentiate between reversible vs. irreversible decisions.
+1. Know to differentiate between reversible and irreversible decisions.
 1. No task is below a manager. Get your hands dirty even if it's not always coding:
     <img src="images/non-coding-contributions.jpg" width="400">
 
@@ -130,9 +129,9 @@ Heuristics for effective management.
 
 1. What would you do with more one person?
 1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
-1. What are your products' respective mission and tenets?
-1. What pillars are your team driving and in what way?
-1. What are your team's pain points? How can you move 2x?
+1. What are your product's mission and tenets?
+1. What pillars is your team driving and in what way?
+1. What are your team's pain points? How can you move 2x faster?
 1. What "dogs not barking" do you worry about? What are areas in your team you worry about?
 
 ## Making decisions
