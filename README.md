@@ -184,7 +184,7 @@ Hiring is the most important decision a manager makes.
 What to look for:
 
 * **Passion for technology**. Does the candidate contribute to open source, personal projects, write articles, teach others, host meetups?
-* **Passion for your team or company's mission**.
+* **Passion for your company's mission**.
 * **Enjoys team work**. Make sure to evaluate group problem solving with candidate in interview. Does the candidate take feedback well?
 
 What to watch out for:
@@ -193,7 +193,7 @@ What to watch out for:
 
 ## Onboarding
 
-Having a good onboarding process is crucial to the success of your team and new team members. It insures team members are contributing as early as possible and assimilated your team.
+Having a good onboarding process is crucial to the success of your team and new team members. It insures team members are contributing as early as possible and are assimilated.
 
 An onboarding process is successful if your new team member can contribute a bug fix on the first day of joining.
 
