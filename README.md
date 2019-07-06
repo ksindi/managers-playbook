@@ -10,6 +10,7 @@
 [hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
 [onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
 [announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
+[further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
 
 # Manager's Playbook
 
@@ -29,6 +30,7 @@ Heuristics for effective management.
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
 1. [Announcing change][announcing-change]
+1. [Further reading][further-reading]
 
 ## Principles
 
@@ -218,3 +220,7 @@ Create a space in Confluence that includes:
 ## Announcing change
 
 TODO
+
+## Further reading
+
+1. Nice collection of engineering management resources: https://github.com/charlax/engineering-management
