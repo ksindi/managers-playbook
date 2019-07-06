@@ -223,4 +223,6 @@ TODO
 
 ## Further reading
 
-1. Nice collection of engineering management resources: https://github.com/charlax/engineering-management
+1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Great guide of all levels of management
+1. [Hard thing about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA)
+1. https://github.com/charlax/engineering-management: Nice collection of articles 
