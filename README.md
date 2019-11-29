@@ -158,14 +158,14 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 ## Coding
 
-1. Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
-    - Authoring a feature?  ⛔️
-    - Covering on-call when someone needs a break?  ✅
-    - Diving on the biggest project after a postmortem?  ⛔️
-    - Code reviews?  ✅
-    - Picking up a p2 bug that's annoying but never seems to become top priority?  ✅
-    - Insisting that all commits be gated on their approval?  ⛔️
-    - Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
+Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
+  1. Authoring a feature?  ⛔️
+  1. Covering on-call when someone needs a break?  ✅
+  1. Diving on the biggest project after a postmortem?  ⛔️
+  1. Code reviews?  ✅
+  1. Picking up a p2 bug that's annoying but never seems to become top priority?  ✅
+  1. Insisting that all commits be gated on their approval?  ⛔️
+  1. Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
 
 ## Ticket and PR process
 
