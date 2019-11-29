@@ -41,6 +41,7 @@ Heuristics for effective management.
 1. Set aggressive but achievable goals, and invest in clear tenets to guide your program.
 1. When giving advice or feedback, encourage ownership by asking open questions.
 1. Have a bias for action and decision-making over planning and consensus.
+1. Be the team cheerleader. Celebrate success often.
 1. Know to differentiate between [reversible and irreversible decisions][making-decisions].
 1. No task is below a manager. Get your hands dirty even if it's not always coding:
     <img src="images/non-coding-contributions.jpg" width="400">
