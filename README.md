@@ -7,7 +7,7 @@
 [coding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coding
 [ticket-and-pr-process]: https://github.com/ksindi/managers-playbook/blob/master/README.md#ticket-and-pr-process
 [meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
-[hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
+[hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring-wip
 [onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
 [planning]: https://github.com/ksindi/managers-playbook/blob/master/README.md#planning
 [announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
