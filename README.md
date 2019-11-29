@@ -9,6 +9,7 @@
 [meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
 [hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
 [onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
+[planning]: https://github.com/ksindi/managers-playbook/blob/master/README.md#planning
 [announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
 [further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
 
@@ -29,6 +30,7 @@ Heuristics for effective management.
 1. [Meetings][meetings]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
+1. [Planning][planning]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
 
@@ -156,7 +158,6 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 ## Coding
 
-1. As a rule of thumb, a manager should spend their time coding roughly `(100 - NUM_DIRECT_REPORTS * 10)%`.
 1. Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
     - Authoring a feature?  ⛔️
     - Covering on-call when someone needs a break?  ✅
@@ -178,7 +179,7 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 1. Always end a meeting with actions, owners and timing.
 1. Encourage ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
 
-## Hiring
+## Hiring [WIP]
 
 > The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. – Randall E. Stross
 
@@ -217,6 +218,10 @@ Create a space in Confluence that includes:
     1. Getting the right accesses (e.g. PagerDuty).
     1. Running your apps locally.
 1. Meeting setups. Who should your new team member meet with?
+
+## Planning
+
+TODO
 
 ## Announcing change
 
