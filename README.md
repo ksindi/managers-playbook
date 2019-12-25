@@ -230,6 +230,7 @@ TODO
 ## Further reading
 
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
+1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practioners.
 1. [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884): Classic that is still relevant today.
 1. [Hard thing about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More on the exec side but still worthwhile.
 1. https://github.com/charlax/engineering-management: Great collection of management articles.
