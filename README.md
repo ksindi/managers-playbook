@@ -282,3 +282,4 @@ WIP
 1. https://github.com/charlax/engineering-management: Great collection of management articles.
 1. https://medium.com/@radoshi/hiring-engineering-leaders-ca55a87db204: Hiring engineering leaders.
 1. https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html: Berkson's paradox and engineering hiring.
+1. https://lifelabslearning.com/. Great workshop for new and experienced managers.
