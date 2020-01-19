@@ -207,25 +207,24 @@ Hiring is the most important decision a manager makes.
 What to look for in senior engineers:
 
 1. **Owner**. Takes ownership of a problem even when it's not 100% their responsibility; understands the why.
-  1. "Tell me about a time when you took on something significant outside of your area of responsibility. Why was it important? What was the outcome?"
-  1. "Tell me about a time when you made a hard decision to sacrifice short term gain for a longer term goal."
+    1. "Tell me about a time when you took on something significant outside of your area of responsibility. Why was it important? What was the outcome?"
+    1. "Tell me about a time when you made a hard decision to sacrifice short term gain for a longer term goal."
 1. **Handles ambiguity**
-  1. "Can you tell me about a time when you had to solve an ambitious problem? Why was the problem important?"
-  1. "Can you tell me about a time when you had to make a decision without complete information? What was the situation? What risks did you take? Why did you make the decision you made?"
+    1. "Can you tell me about a time when you had to solve an ambitious problem? Why was the problem important?"
+    1. "Can you tell me about a time when you had to make a decision without complete information? What was the situation? What risks did you take? Why did you make the decision you made?"
 1. **Team player**. Takes feedback well.
 1. **Communicator**. Can articulate ideas at different levels.
-  1. "Describe to me something you know well."
-  1. "You mentioned X in your resume. Explain it to me as if I've never come across it?"
+    1. "Describe to me something you know well."
+    1. "You mentioned X in your resume. Explain it to me as if I've never come across it?"
 1. **Teacher**. Enjoys growing other engineers. Especially important for senior-level engineers.
-  1. "Tell me of a time where you helped someone in your team grow."
+    1. "Tell me of a time where you helped someone in your team grow."
 1. **Deep diver**. Digs a level deeper to understand what's happening under the hood.
-  1. "Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out."
+    1. "Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out."
 1. **Simplifier**. Simplifies problems instead of just hacks at things and adds tech debt. Does the person have a build vs. buy mentality.
-  1. "Tell me a about a complex problem that you solved with a simple solution."
+    1. "Tell me a about a complex problem that you solved with a simple solution."
 1. **Missionary**. Interested in company's mission or technology.
-  1. "Explain to me what your current company does and why it's important."
-  1. "What interests you working at [INSERT COMPANY]?"
-1. **Technologist** (nice to have): Contributes to open source, personal projects, write articles, hosts meetups?
+    1. "Explain to me what your current company does and why it's important."
+    1. "What interests you working at [INSERT COMPANY]?"
 
 What to watch out for:
 
@@ -266,9 +265,9 @@ WIP
 1. Examples of change: promotions, reshuffles, restructuring.
 1. Acknowledge the difficulty or opportunity of the change.
 1. Appeal to emotions and narrative to explain the why.
-  1. Why is this change important now for the company?
+    1. Why is this change important now for the company?
 1. Use facts to explain what happened.
-  1. What metrics will this change achieve?
+    1. What metrics will this change achieve?
 
 
 ## Further reading
