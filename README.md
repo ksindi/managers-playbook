@@ -201,8 +201,7 @@ Having a good onboarding process is crucial to the success of your team and new 
 
 An onboarding process is successful if your new team member can contribute a bug fix on the first day of joining.
 
-Create a space in Confluence that includes:
-
+Onboarding material:
 1. Team mission
     1. How is your team moving the needle for the customer?
 1. Team members
@@ -225,12 +224,15 @@ TODO
 
 ## Announcing change
 
-TODO
+1. Appeal to emotions
+1. Use facts
+
 
 ## Further reading
 
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practioners.
-1. [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884): Classic that is still relevant today.
-1. [Hard thing about hard things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More on the exec side but still worthwhile.
+1. [Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More on the exec side but still worthwhile.
+1. [What You Do Is Who You Are](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331): Why company culture matters and how to establish one.
+1. [Trilloin Dollar Coach](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268): Book abou Bill Campbell, the silicon valley coach.
 1. https://github.com/charlax/engineering-management: Great collection of management articles.
