@@ -9,7 +9,6 @@
 [meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
 [hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
 [onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
-[planning]: https://github.com/ksindi/managers-playbook/blob/master/README.md#planning
 [announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
 [further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
 
@@ -31,7 +30,6 @@ Heuristics for effective management.
 1. [Meetings][meetings]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
-1. [Planning][planning]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
 
