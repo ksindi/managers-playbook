@@ -229,7 +229,7 @@ What to watch out for:
 1. **Short tenure at companies**. If a candidate typically stays at companies for less than a year, ask them why. There might be perfectly valid reasons or it might indicate a pattern that the person is difficult to work with.
     1. Why did you only work at X for less than 1 year?
 1. **Menu of technologies**. Resumes that just list technologies used instead of problems solved may indicate person may not be thinking big picture. Also a typical trait of junior engineers.
-1. **More than 2 page resumes**. More than 2 pages may indicate the person has difficulty distilling what's important. That being said, there are culture reasons to be aware of. For example, in some European countries, resumes are encouraged to be long.
+1. **Long resumes**. More than 2 pages may indicate the person has difficulty distilling what's important. That being said, there can be culture reasons for long resumes. For example, in some European countries, resumes are encouraged to be long.
 
 
 ## Onboarding
