@@ -146,6 +146,8 @@ Heuristics for effective management.
 1. What would you do with more one person?
 1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
 1. What are your product's mission and tenets?
+1. What are the company's top priorities this year? Where should the company be three years from now?
+1. What are your "rocks" and "pebble" projects this quarter?
 1. What pillars is your team driving and in what way?
 1. What are your team's pain points? How can you move 2x faster?
 1. What "dogs not barking" do you worry about? What are areas in your team you worry about?
