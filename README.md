@@ -273,7 +273,7 @@ Onboarding material:
 
 ## Further reading
 
-1. [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy): focus on replaying positive performance so team members know how to repeat excellence.
+1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
 1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
@@ -285,3 +285,4 @@ Onboarding material:
 1. https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html: Berkson's paradox and engineering hiring.
 1. https://lifelabslearning.com/. Great workshop for new and experienced managers.
 1. https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview/
+1. [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy): focus on replaying positive performance so team members know how to repeat excellence.
