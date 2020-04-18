@@ -46,7 +46,7 @@ Heuristics for effective management.
 1. Be the team coach and cheerleader. Celebrate success often and reinforce positive behavior.
 1. Know to differentiate between [reversible and irreversible decisions][making-decisions].
 1. Ensure every report is aware of the top priorities of the team, organization and company.
-1. No task is below a manager. Get your hands dirty even if it's not coding:
+1. No task is beneath a manager. Get your hands dirty even if it's not coding:
     <img src="images/non-coding-contributions.jpg" width="400">
 
 
