@@ -91,7 +91,7 @@ Heuristics for effective management.
         1. "What are your top priorities this week?"
         1. "What will success look like?"
         1. "What are obstacles?"
-1. Encourage your direct reports to bring up topics in 1-1. [Julia Evans](https://twitter.com/b0rk) made a great [zine](https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/) on it:
+1. Encourage your direct reports to bring up topics in 1-1.
     <img src="images/1_1s.jpg" width="400">  
 
 
