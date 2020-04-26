@@ -264,10 +264,10 @@ Onboarding material:
 
 1. Examples of change: promotions, reshuffles, restructuring.
 1. Acknowledge the difficulty or opportunity of the change.
-1. Appeal to emotions and narrative to explain the why.
+1. Appeal to emotions by using narrative to explain the why.
     1. Why is this change important now for the company?
     1. Who does this change effect?
-1. Use facts to explain what happened.
+1. Appeal to logic by using facts.
     1. What metrics will this change achieve?
 1. Socialize the change to get buy in.
     1. Start with the people who it affects the most.
