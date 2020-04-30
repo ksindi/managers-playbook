@@ -194,13 +194,10 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 
 ## Meetings
 
-
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long form writing, and use the meeting to discuss it.
-1. Encourage proposals to be written as ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
+1. Encourage proposals to be written as ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">  
 1. Always end a meeting with actions, owners and timing.
-1. For "staff meetings", go around the table and asking what's their biggest concerns.
-    > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" - Horowitz
 
 
 ## Hiring
