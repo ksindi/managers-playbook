@@ -89,9 +89,9 @@ Heuristics for effective management.
         1. I need feedback. What are two things that I can do differently?
         1. What's one thing we could do to improve our way of collaborating?
     1. Priorities:
-        1. "What are your top priorities this week?"
-        1. "What will success look like?"
-        1. "What are obstacles?"
+        1. What are your top priorities this week?
+        1. What will success look like?
+        1. What are obstacles?
 1. Encourage your direct reports to bring up topics in 1-1.  
     <img src="images/1_1s.jpg" width="400">  
 
