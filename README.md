@@ -172,6 +172,7 @@ Ideally you also have metrics to define the success of that decision.
 1. If someone disagrees with an irreversible decision, give them the opportunity to present their case.
 Regardless, everyone should be aware the decision is ultimately yours and the team needs
 to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made.
+1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
 
 
 ## Coding
@@ -196,7 +197,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 ## Meetings
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it.
-1. Encourage proposals to be written as Amazon style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
+1. Encourage proposals to be written as Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">  
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
 1. For staff meetings, go around the table and asking reports what their biggest concerns are.  
