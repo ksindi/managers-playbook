@@ -44,15 +44,16 @@ Heuristics for effective management.
 1. When giving advice or feedback, encourage ownership by asking open questions.
 1. Have a bias for action and decision-making over planning and consensus.
 1. Be the team coach and cheerleader. Celebrate success often and reinforce positive behavior.
-1. Know to differentiate between [reversible and irreversible decisions][making-decisions].
+1. Know how to differentiate between [reversible and irreversible decisions][making-decisions].
 1. Ensure every report is aware of the top priorities of the team, organization and company.
+1. Be the example. Only preach what you practice.
 1. No task is beneath a manager. Get your hands dirty even if it's not coding:
     <img src="images/non-coding-contributions.jpg" width="400">
 
 
 ## One on ones
 
-1. Never skip one on ones. It's the best platform for getting and providing feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+1. Never skip one on ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
 1. Aim for weekly one on ones.
 1. Focus on 5 topics:
     - Predictability: create routine, set expectations, normalize change.
@@ -194,10 +195,12 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 
 ## Meetings
 
-1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long form writing, and use the meeting to discuss it.
-1. Encourage proposals to be written as ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
+1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it.
+1. Encourage proposals to be written as Amazon style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">  
-1. Always end a meeting with actions, owners and timing.
+1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
+1. For staff meetings, go around the table and asking reports what their biggest concerns are.  
+    > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" - Horowitz
 
 
 ## Hiring
@@ -226,7 +229,7 @@ What to look for in senior engineers:
     1. "Tell me a about a complex problem that you solved with a simple solution."
 1. **Missionary**. Interested in company's mission or technology.
     1. "Explain to me what your current company does and why it's important."
-    1. "What interests you working at [INSERT COMPANY]?"
+    1. "What interests you working at [COMPANY]?"
 
 What to watch out for:
 
@@ -281,7 +284,6 @@ Onboarding material:
 1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
 1. [Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More on the exec side but still worthwhile.
 1. [What You Do Is Who You Are](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331): Why company culture matters and how to establish one.
-1. [Trillion Dollar Coach](https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268): Book about Bill Campbell, the silicon valley coach.
 1. https://github.com/charlax/engineering-management: Great collection of management articles.
 1. https://medium.com/@radoshi/hiring-engineering-leaders-ca55a87db204: Hiring engineering leaders.
 1. https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html: Berkson's paradox and engineering hiring.
