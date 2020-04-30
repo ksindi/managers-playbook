@@ -137,8 +137,8 @@ Heuristics for effective management.
     - "What are a couple of actions you could take right now?"
     - "What are our action items?"
 1. Highlight positive patterns (remember to be specific).
-    - "I like when you take initiative in cleaning up code because it shows initiative and ownership."
-    - "It's great to see you teach X about Y so that they're. That's a positive trait of a senior engineer."
+    - "I like it when you take initiative in cleaning up code because it shows ownership."
+    - "It's great to see you teach X about Y so that they're as proficient as you. That's a trait of a senior engineer."
 1. Replay instinctive reactions to help frame the conversation:  
     <img src="images/replay-instinctive-reactions.png" width="400">  
     from [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
@@ -202,7 +202,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Encourage proposals to be written as Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">  
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
-1. For staff meetings, go around the table and asking reports what their biggest concerns are.  
+1. For staff meetings, go around the table and ask reports what their biggest concerns are.  
     > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" - Horowitz
 
 
