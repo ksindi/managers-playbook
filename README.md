@@ -144,7 +144,7 @@ Heuristics for effective management.
 
 ## Thinking strategically
 
-1. What would you do with more one person?
+1. What would you do with one more person?
 1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
 1. What are your product's mission and tenets?
 1. What are the company's top priorities this year? Where should the company be three years from now?
