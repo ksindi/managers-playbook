@@ -282,8 +282,8 @@ Onboarding material:
 1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
-1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/)
-1. [Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More on the exec side but still worthwhile.
+1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/): On the challenges of being a manager who wants to stay technical.
+1. [Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More on the executive-level side but still worthwhile.
 1. [What You Do Is Who You Are](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331): Why company culture matters and how to establish one.
 1. https://github.com/charlax/engineering-management: Great collection of management articles.
 1. https://medium.com/@radoshi/hiring-engineering-leaders-ca55a87db204: Hiring engineering leaders.
