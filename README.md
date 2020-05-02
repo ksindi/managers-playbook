@@ -92,9 +92,9 @@ Heuristics for effective management.
         1. What are your top priorities this week?
         1. What will success look like?
         1. What are obstacles?
-1. Encourage your direct reports to bring up topics in 1-1:  
+1. Encourage your direct reports to bring up topics:  
     <img src="images/1_1s.jpg" width="400">  
-1. See [getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) by [sbourke](https://medium.com/@sbourke) for more thoughts on effective one on ones.
+1. See [getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
 
 
 ## Coaching
@@ -105,7 +105,7 @@ Heuristics for effective management.
     - Respond with "What are your thoughts so far?" when asked "What should I do?"
 1. Summarize what the person is saying so you're both on the same page and are pinpointing the problem.
     -  "It sounds like there are two issues, x and y. Which should we focus on first?"
-1. Figure out how to make this meeting productive.
+1. Figure out how to make the meeting productive:
     - "What's the next step?"
     - "How should we track this?"
 
@@ -119,7 +119,7 @@ Heuristics for effective management.
 1. Don't "pad" negative feedback by beginning with compliments - it gives mixed signals.
 1. Be specific even if it's positive feedback.
     - "Good job!"  ⛔️
-    - "I like the initiative you took to reduce the service's memory footprint. It shows ownership and leadership."
+    - "I like the initiative you took to reduce the service's memory footprint. It shows ownership."
 1. Focus on data and not behavior:
     - "I noticed you didn't address any of the comments made in your last three PRs"
     - "I noticed that you didn't pick up the ticket I asked you to do"
