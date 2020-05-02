@@ -193,7 +193,8 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 ## Ticket and PR process
 
 1. Set contributing guidelines for the team.
-1. PRs should always be prioritized. Aim for review SLA of 1 hour.
+1. PRs should small enough to be properly reviewed in under an hour.
+1. Prioritize PRs to unblock tickets.
 1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
 
 
