@@ -152,7 +152,7 @@ Heuristics for effective management.
 1. What are the company's top priorities this year? Where should the company be three years from now?
 1. What are your "rocks" and "pebble" projects this quarter?
 1. What company annual goals is your team driving and in what way?
-1. If you were to get promoted, who would take your place?
+1. If you were to get promoted, who from your team would take your place? What skills or experience does this person need to acquire?
 1. What are your team's pain points? How can you move 2x faster?
 1. What ["dogs not barking"](http://www.mikepope.com/blog/AddComment.aspx?blogid=2392) do you worry about?
 
