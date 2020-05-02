@@ -246,24 +246,30 @@ What to watch out for:
 
 Having a good onboarding process is crucial to the success of your team and new team members. It ensures team members are contributing as early as possible and are assimilated into your processes and culture.
 
-An onboarding process is successful if your new team member can contribute a bug fix on the first day of joining.
+An onboarding process is successful if your new team member can contribute a bug fix on their first day of joining.
 
 Onboarding material:
 1. Team mission
     1. How is your team moving the needle for the customer?
 1. Team members
+    1. Include: name, role/title, email, slack handle, github handle
 1. Repositories and services
+1. How to communicate within the team
+    1. Slack channels
+    1. Keeping yourself informed
+    1. Communication protocols during and outside of business hours
 1. Documentation:
-    1. Code contributing guidelines
-    1. Ticketing process. E.g. label and story pointing guidelines.
-    1. Glossary of terms.
-    1. Releasing code.
+    1. Code contributing guidelines including PR review process
+    1. Ticketing process
+    1. Glossary of terms
+    1. Releasing code
     1. How tos (e.g. migrate database, add secrets)
 1. Getting started:
     1. Installation instructions (e.g. Docker, postgres).
-    1. Getting the right accesses (e.g. PagerDuty).
-    1. Running your apps locally.
-1. Meeting setups. Who should your new team member meet with?
+    1. A checklist of all the accesses (e.g. AWS, PagerDuty)
+    1. Running your apps locally
+    1. Deploying your first bug fix
+1. Meetings. Who should your new team member meet with?
 
 
 ## Announcing change
