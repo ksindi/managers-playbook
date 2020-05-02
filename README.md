@@ -284,9 +284,8 @@ Onboarding material:
     1. What metrics will this change achieve?
 1. Socialize the change to get buy in.
     1. Start with the people who it affects the most.
-1. Good examples:
+1. Examples:
     1. [Carta's covid-19 layoff](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d)
-    1. 
 
 ## Further reading
 
