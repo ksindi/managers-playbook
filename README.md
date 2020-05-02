@@ -258,13 +258,14 @@ Onboarding material:
     1. Slack channels
     1. Keeping yourself informed
     1. Communication protocols during and outside of business hours
-1. Documentation:
-    1. Code contributing guidelines including PR review process
+1. Documentation
+    1. Code contributing guidelines
+    1. PR review process
     1. Ticketing process
     1. Glossary of terms
     1. Releasing code
     1. How tos (e.g. migrate database, add secrets)
-1. Getting started:
+1. Getting started
     1. Installation instructions (e.g. Docker, postgres).
     1. A checklist of all the accesses (e.g. AWS, PagerDuty)
     1. Running your apps locally
@@ -283,7 +284,9 @@ Onboarding material:
     1. What metrics will this change achieve?
 1. Socialize the change to get buy in.
     1. Start with the people who it affects the most.
-
+1. Good examples:
+    1. [Carta's covid-19 layoff](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d)
+    1. 
 
 ## Further reading
 
