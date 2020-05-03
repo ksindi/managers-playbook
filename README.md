@@ -94,7 +94,7 @@ Heuristics for effective management.
         1. What are obstacles?
 1. Encourage your direct reports to bring up topics:  
     <img src="images/1_1s.jpg" width="400">  
-1. See [getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
+1. See [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
 
 
 ## Coaching
@@ -116,10 +116,10 @@ Heuristics for effective management.
 1. Get buy-in about providing feedback and reduce mystery:
     - "Do you have 10 minutes to talk about this morning's stand up?"
     - "Can I share some thoughts with you about how we've been working together?"
-1. Don't "pad" negative feedback by beginning with compliments - it gives mixed signals.
+1. Don't pad negative feedback by beginning with compliments - it gives mixed signals.
 1. Be specific even if it's positive feedback.
     - "Good job!"  ⛔️
-    - "I like the initiative you took to reduce the service's memory footprint. It shows ownership."
+    - "I like the initiative you took to reduce the service's memory footprint. It encourages me to give you more ownership so that I can focus elsewhere."
 1. Focus on data and not behavior:
     - "I noticed you didn't address any of the comments made in your last three PRs"
     - "I noticed that you didn't pick up the ticket I asked you to do"
@@ -254,7 +254,7 @@ Onboarding material:
 1. Team mission
     1. How is your team moving the needle for the customer?
 1. Team members
-    1. Include: name, role/title, email, slack handle, github handle
+    1. Include: name, role/title, email, slack username, github username
 1. Repositories and services
 1. How to communicate within the team
     1. Slack channels
@@ -269,7 +269,7 @@ Onboarding material:
     1. How tos (e.g. migrate database, add secrets)
 1. Getting started
     1. Installation instructions (e.g. Docker, postgres).
-    1. A checklist of all the accesses (e.g. AWS, PagerDuty)
+    1. A checklist of all accesses expected (e.g. AWS, PagerDuty)
     1. Running your apps locally
     1. Deploying your first bug fix
 1. Meetings. Who should your new team member meet with?
@@ -281,7 +281,7 @@ Onboarding material:
 1. Acknowledge the difficulty or opportunity of the change.
 1. Appeal to emotions by using narrative to explain the why.
     1. Why is this change important now for the company?
-    1. Who does this change effect?
+    1. Who does this change affect?
 1. Appeal to logic by using facts.
     1. What metrics will this change achieve?
 1. Socialize the change to get buy in.
