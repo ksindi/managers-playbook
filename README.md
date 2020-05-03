@@ -95,6 +95,10 @@ Heuristics for effective management.
 1. Encourage your direct reports to bring up topics:  
     <img src="images/1_1s.jpg" width="400">  
 1. See [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
+1. Initial one on one meeting with a new report:
+    1. What did you like about your previous manager? What didn't you like?
+    1. What do you like to see from a manager?
+1. One on ones where the report is also a manager are typically more "business" where the focus is on strategy, team health and project alignment.
 
 
 ## Coaching
@@ -302,4 +306,4 @@ Onboarding material:
 1. [How to Hire Smarter than the Market](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html): Berkson's paradox and engineering hiring.
 1. [LifeLabs Learning](https://lifelabslearning.com). Great workshop for new and experienced managers. I learned a lot from it on feedback, coaching and 1-1s.
 1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask interviewing managers.
-1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) by [sbourke](https://medium.com/@sbourke)
+1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e): How to measure successful one on ones.
