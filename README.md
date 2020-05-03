@@ -39,15 +39,16 @@ Heuristics for effective management.
 ## Principles
 
 1. Have a bias for action and decision-making over planning and consensus.
-1. Schedule 1-1s with your direct reports on a weekly basis. Schedule skip-levels on a monthly basis.
+1. Encourage [writing][communicating] proposals over brainstorm sessions.
+1. Schedule 1-1s with your direct reports on a weekly or bi-weekly basis. Schedule skip-levels on a monthly basis.
 1. Understand how your products are used in the wild. For example, join sales and support calls.
 1. Work backwards by focusing on the outcomes you want to achieve.
 1. When giving advice or feedback, encourage ownership by asking [open questions][coaching].
 1. Be the team coach and cheerleader. Celebrate success often and reinforce positive behavior.
 1. Know how to differentiate between [reversible and irreversible decisions][making-decisions].
 1. Ensure every report is aware of the top priorities of the team, organization and company.
-1. Be the example. Only preach what you practice.
-1. Know your team's architecture.
+1. Lead by example. Only preach what you practice.
+1. Know your team's architecture and tech stack.
 1. No task is beneath a manager. Get your hands dirty even if it's not coding:
     <img src="images/non-coding-contributions.png" width="400">
 
