@@ -6,10 +6,11 @@
 [making-decisions]: https://github.com/ksindi/managers-playbook/blob/master/README.md#making-decisions
 [coding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#coding
 [ticket-and-pr-process]: https://github.com/ksindi/managers-playbook/blob/master/README.md#ticket-and-pr-process
-[meetings]: https://github.com/ksindi/managers-playbook/blob/master/README.md#meetings
+[communicating]: https://github.com/ksindi/managers-playbook/blob/master/README.md#communicating
 [hiring]: https://github.com/ksindi/managers-playbook/blob/master/README.md#hiring
 [onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
 [announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
+[managing-up]: https://github.com/ksindi/managers-playbook/blob/master/README.md#managing-up
 [further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
 
 # Manager's Playbook
@@ -27,9 +28,10 @@ Heuristics for effective management.
 1. [Making decisions][making-decisions]
 1. [Coding][coding]
 1. [Ticket and PR process][ticket-and-pr-process]
-1. [Meetings][meetings]
+1. [Communicating][communicating]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
+1. [Managing up][managing-up]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
 
@@ -202,11 +204,25 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
 
 
+## Communicating
+
+### Writing
+
+1. Favor long-form writing for proposals. It forces the author to think about the details and tradeoffs.
+1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
+    <img src="images/write-like-an-amazonian.jpg" width="400">
+    
+## Email
+
+1. Prefix the subject with `[Action Required]` if you expect the reader to take action.
+1. Structure your email in the following way (from [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf)):
+    1. First Paragraph — no more than 2 sentences. This would be the headline and critical information
+    1. Second paragraph — 3–7 bullets. The more bullets, the lower line length. Aim to not wrap sentences.
+    1. Third (final) paragraph — no more than 2–3 sentences focused on the action needed, follow up, and timelines.
+
 ## Meetings
 
-1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html). Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it.
-1. Encourage proposals to be written as Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
-    <img src="images/write-like-an-amazonian.jpg" width="400">  
+1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging long-form writing. "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it."
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
 1. For staff meetings, go around the table and ask reports what their biggest concerns are.  
     > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" - Horowitz
@@ -279,6 +295,16 @@ Onboarding material:
 1. Meetings. Who should your new team member meet with?
 
 
+## Managing up
+
+1. Make sure you and your manager are on the same page by sharing a document listing your project priorities, timelines and confidence levels.
+1. Your manager also needs to manage up. Proactively update your manager on project timeline changes with brief answers to the following questions:
+    1. What is the new timeline?
+    1. Why did the timeline update?
+    1. How confident are you with the new timeline?
+1. Nobody cares for blame and excuses. Own mistakes and document corrective actions you will take to mitigate them.
+
+
 ## Announcing change
 
 1. Examples of change: promotions, reshuffles, restructuring.
@@ -307,3 +333,4 @@ Onboarding material:
 1. [LifeLabs Learning](https://lifelabslearning.com). Great workshop for new and experienced managers. I learned a lot from it on feedback, coaching and 1-1s.
 1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask interviewing managers.
 1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e): How to measure successful one on ones.
+1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
