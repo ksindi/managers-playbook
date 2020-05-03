@@ -137,11 +137,11 @@ Heuristics for effective management.
     - "What are a couple of actions you could take right now?"
     - "What are our action items?"
 1. Highlight positive patterns (remember to be specific).
-    - "I like it when you take initiative in cleaning up code because it shows ownership."
     - "It's great to see you teach X about Y so that they're as proficient as you. That's a trait of a senior engineer."
-1. Replay instinctive reactions to help frame the conversation:  
-    <img src="images/replay-instinctive-reactions.png" width="400">  
-    from [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy)
+1. Replay instinctive reactions to help frame the conversation:
+    - "My initial reaction is to your proposal is..."
+    - "Here's what I would do" is better than "Here's what should do"
+    - "When you did X, I felt Y"
 
 
 ## Thinking strategically
@@ -302,5 +302,4 @@ Onboarding material:
 1. [How to Hire Smarter than the Market](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html): Berkson's paradox and engineering hiring.
 1. [LifeLabs Learning](https://lifelabslearning.com). Great workshop for new and experienced managers. I learned a lot from it on feedback, coaching and 1-1s.
 1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask interviewing managers.
-1. [The Feedback Fallacy](https://hbr.org/2019/03/the-feedback-fallacy): focus on replaying positive performance so team members know how to repeat excellence.
 1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) by [sbourke](https://medium.com/@sbourke)
