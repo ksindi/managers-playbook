@@ -221,13 +221,17 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
     1. Second paragraph — 3–7 bullets. The more bullets, the lower line length. Aim to not wrap sentences.
     1. Third (final) paragraph — no more than 2–3 sentences focused on the action needed, follow up, and timelines.
 
+
 ### Meetings
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting.
     > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." - Erik Bernhardsson
+1. Avoid sync or recurring meetings with no standing agenda.
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
 1. For staff meetings, go around the table and ask reports what their biggest concerns are.  
     > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" - Horowitz
+1. It's worth occasionally asking the meeting attendees whether the meeting is productive or how can it improve.
+1. Before sending an invite, ask yourself why this meeting can't be communicated over email.
 
 
 ## Hiring
@@ -336,3 +340,4 @@ Onboarding material:
 1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask interviewing managers.
 1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e): How to measure successful one on ones.
 1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
+1. [Toxic Meeting Culture](https://erikbern.com/2017/12/29/toxic-meeting-culture.html): How to avoid meeting antipatterns.
