@@ -222,7 +222,8 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 
 ## Meetings
 
-1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging long-form writing. "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it."
+1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting.
+    > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." - Erik Bernhardsson
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
 1. For staff meetings, go around the table and ask reports what their biggest concerns are.  
     > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" - Horowitz
