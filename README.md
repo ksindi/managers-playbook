@@ -208,11 +208,12 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 
 ### Writing
 
-1. Favor long-form writing for proposals. It forces the author to think about the details and tradeoffs.
+1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs.
+1. Favor enumerated lists over bullet list as they're are a lot easier to reference.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">
-    
-## Email
+
+### Email
 
 1. Prefix the subject with `[Action Required]` if you expect the reader to take action.
 1. Structure your email in the following way (from [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf)):
@@ -220,7 +221,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
     1. Second paragraph — 3–7 bullets. The more bullets, the lower line length. Aim to not wrap sentences.
     1. Third (final) paragraph — no more than 2–3 sentences focused on the action needed, follow up, and timelines.
 
-## Meetings
+### Meetings
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting.
     > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." - Erik Bernhardsson
