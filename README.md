@@ -11,6 +11,7 @@
 [onboarding]: https://github.com/ksindi/managers-playbook/blob/master/README.md#onboarding
 [announcing-change]: https://github.com/ksindi/managers-playbook/blob/master/README.md#announcing-change
 [managing-up]: https://github.com/ksindi/managers-playbook/blob/master/README.md#managing-up
+[managing-sideways]: https://github.com/ksindi/managers-playbook/blob/master/README.md#managing-sideways
 [further-reading]: https://github.com/ksindi/managers-playbook/blob/master/README.md#further-reading
 
 # Manager's Playbook
@@ -32,6 +33,7 @@ Heuristics for effective management.
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
 1. [Managing up][managing-up]
+1. [Managing sideways][managing-sideways]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
 
@@ -310,6 +312,13 @@ Onboarding material:
     1. How confident are you with the new timeline?
 1. Nobody cares for blame and excuses. Own mistakes and document corrective actions you will take to mitigate them.
 
+## Managing sideways
+
+1. Get buy in by presenting the problem and not the solution.
+    1. "What is the best way for us to do feature X?"
+    1. "I need you to do X and here's how" ⛔️
+1. Ask for timelines to hold your peer accountable on delivery dates.
+1. Create project kickoffs and standups to make sure you are aware of the other team's status and priorities.
 
 ## Announcing change
 
