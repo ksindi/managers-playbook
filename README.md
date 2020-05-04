@@ -238,7 +238,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 
 ## Hiring
 
-> If you can 'hire tough,' you can 'manage easy'. – Sue Tetzlaff, The Employee Experience
+> If you can 'hire tough,' you can 'manage easy' – Sue Tetzlaff, The Employee Experience
 
 Hiring is the most important decision a manager makes.
 
