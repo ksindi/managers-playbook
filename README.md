@@ -99,7 +99,7 @@ Heuristics for effective management.
 1. Encourage your direct reports to bring up topics:  
     <img src="images/1_1s.jpg" width="400">  
 1. See [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
-1. Initial one on one meeting with a new report:
+1. There isn't one best management style. Figure out how someone wants to be managed in your initial one on one:
     1. What did you like about your previous manager? What didn't you like?
     1. What do you like to see from a manager?
 1. One on ones where the report is also a manager are typically more "business" where the focus is on strategy, team health and project alignment.
