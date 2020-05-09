@@ -41,7 +41,7 @@ Heuristics for effective management.
 ## Principles
 
 1. Have a bias for action and decision-making over planning and consensus.
-1. Encourage [writing][communicating] proposals over brainstorm sessions.
+1. Favor [writing][communicating] over meeting.
 1. Understand how your products are used in the wild. For example, join sales and support calls.
 1. Work backwards by focusing on the outcomes you want to achieve.
 1. Encourage ownership by asking [open questions][coaching].
