@@ -316,6 +316,7 @@ Onboarding material:
     1. "What is the best way for us to do feature X?"
     1. "I need you to do X and here's how" ⛔️
 1. Ask for timelines to hold your peer accountable on delivery dates.
+1. If you disagree on an approach, document your concerns. Having an audit trail improves accountability.
 1. Create project kickoffs and standups to make sure you are aware of the other team's status and priorities.
 
 ## Announcing change
