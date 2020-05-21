@@ -145,8 +145,8 @@ Heuristics for effective management.
 1. Highlight positive patterns (remember to be specific).
     - "It's great to see you teach X about Y so that they're as proficient as you. That's a trait of a senior engineer."
 1. Replay instinctive reactions to help frame the conversation:
-    - "My initial reaction is to your proposal is..."
-    - "Here's what I would do" is better than "Here's what should do"
+    - "My initial reaction to your proposal is..."
+    - "Here's what I would do" is better than "Here's what you should do"
     - "When you did X, I felt Y"
 
 
