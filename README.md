@@ -209,7 +209,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 ### Writing
 
 1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs.
-1. Favor enumerated lists over bullet list as they're are a lot easier to reference.
+1. Favor enumerated lists over bullet list; they're are a lot easier to reference.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">
 
