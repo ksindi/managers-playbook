@@ -272,7 +272,7 @@ What to watch out for:
 
 ## Onboarding
 
-Having a good onboarding process is crucial to the success of your team and new team members. It ensures team members are contributing as early as possible and are assimilated into your processes and culture.
+Having a good onboarding process is crucial to the success of your team. It ensures new members are contributing as early as possible and are assimilated into your processes and culture.
 
 An onboarding process is successful if your new team member can contribute a bug fix on their first day of joining.
 
