@@ -212,6 +212,10 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Favor enumerated lists over bullet list; they're are a lot easier to reference.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">
+1. Write music.  
+    <img src="images/write-music.jpg" width="400">
+1. Examples:
+    1. [It's time to build](https://a16z.com/2020/04/18/its-time-to-build/)
 
 ### Email
 
@@ -306,9 +310,9 @@ Onboarding material:
 1. Make sure you and your manager are on the same page by sharing a document listing your project priorities, timelines and confidence levels.
 1. Your manager also needs to manage up. Proactively update your manager on project timeline changes with brief answers to the following questions:
     1. What is the new timeline?
-    1. Why did the timeline update?
+    1. Why did the timeline change?
     1. How confident are you with the new timeline?
-1. Nobody cares for blame and excuses. Own mistakes and document corrective actions you will take to mitigate them.
+1. Nobody cares for blame or excuses. Own mistakes and document corrective actions you will take to mitigate them going forward.
 
 ## Managing sideways
 
