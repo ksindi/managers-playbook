@@ -213,7 +213,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">
 1. Write music.  
-    <img src="images/write-music.jpg" width="400">
+    <img src="images/write-music.png" width="400">
 1. Examples:
     1. [It's time to build](https://a16z.com/2020/04/18/its-time-to-build/)
 
