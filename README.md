@@ -257,6 +257,7 @@ What to look for in senior engineers:
     1. "Tell me about a time when you disagreed with your manager. What did you learn from this situation?"
     1. "Tell me about a time when you needed the cooperation of a peer who was resistant. What did you do? What was the outcome?"
     1. "Give me an example of a tough or critical piece of feedback you received. What was it and what did you do about it?"
+    1. "If I were to speak with your peers what positive or negative feedback would they have of you?"
 1. **Communicator**. Can articulate ideas at different levels.
     1. "What makes a great engineer?"
     1. "Describe to me something you know well."
