@@ -224,7 +224,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
     1. First Paragraph — no more than 2 sentences. This would be the headline and critical information
     1. Second paragraph — 3–7 bullets. The more bullets, the lower line length. Aim to not wrap sentences.
     1. Third (final) paragraph — no more than 2–3 sentences focused on the action needed, follow up, and timelines.
-
+1. "Schedule send" emails when outside of business hours unless they're just FYIs or you need an immediate response.
 
 ### Meetings
 
