@@ -209,7 +209,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 ### Writing
 
 1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs.
-1. Favor enumerated lists over bullet list; they're are a lot easier to reference.
+1. Favor enumerated lists over bullet list; they're easier to reference.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
     <img src="images/write-like-an-amazonian.jpg" width="400">
 1. Write music.  
@@ -345,7 +345,7 @@ Onboarding material:
 
 ## Further reading
 
-1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles)
+1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles): The best principles around leadership to operate by.
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
 1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/): On the challenges of being a manager who wants to stay technical.
