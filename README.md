@@ -168,7 +168,7 @@ Heuristics for effective management.
 1. Determine if the decision is [reversible vs. irreversible](https://fs.blog/2018/04/reversible-irreversible-decisions/).
     - Reversible decisions can easily be changed. Examples: changing stand up time, contributing guidelines.
     - Irreversible decisions cannot be changed without significant rework. These decisions should take
-  longer and be documented and discussed. Examples: architecture changes, language decision, data models.
+  longer and be documented and discussed. Examples: architecture changes, hiring, org changes, data models.
     - A rubric on technology decisions by [Sam Newman](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848):
     <img src="images/tech-decisions.jpg" width="400">
 1. Whenever there is disagreement, focus on the intended outcome of the decision and make sure the team
