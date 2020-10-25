@@ -218,7 +218,8 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Write music.  
     <img src="images/write-music.png" width="400">
 1. Examples:
-    1. [It's time to build](https://a16z.com/2020/04/18/its-time-to-build/)
+    1. [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
+    1. [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 
 ### Email
 
