@@ -22,7 +22,7 @@ Heuristics for effective management.
 ## Table of Contents
 
 1. [Principles][principles]
-1. [One on ones][one-on-ones]
+1. [One-on-ones][one-on-ones]
 1. [Coaching][coaching]
 1. [Feedback][feedback]
 1. [Thinking strategically][thinking-strategically]
@@ -43,7 +43,7 @@ Heuristics for effective management.
 1. Have a bias for action and decision-making over planning and consensus.
 1. Favor [writing][communicating] over meeting.
 1. Understand how your products are used in the wild. For example, join sales and support calls.
-1. Work backwards by focusing on the outcomes you want to achieve.
+1. Work backward by focusing on the outcomes you want to achieve.
 1. Encourage ownership by asking [open questions][coaching].
 1. Be the cheerleader. Celebrate success often and reinforce positive behavior.
 1. Know how to differentiate between [reversible and irreversible decisions][making-decisions].
@@ -52,10 +52,10 @@ Heuristics for effective management.
     <img src="images/non-coding-contributions.png" width="400">
 
 
-## One on ones
+## One-on-ones
 
-1. Never skip one on ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
-1. Aim for weekly one on ones.
+1. Never skip one-on-ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+1. Aim for weekly one-on-ones.
 1. Focus on 5 topics:
     - Predictability: create routine, set expectations, normalize change.
     - Ownership: offer options, clarify ownership, give more responsibilities.
