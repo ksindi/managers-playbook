@@ -364,3 +364,4 @@ Onboarding material:
 1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e): How to measure successful one on ones.
 1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
 1. [Toxic Meeting Culture](https://erikbern.com/2017/12/29/toxic-meeting-culture.html): How to avoid meeting antipatterns.
+1. [Igor's Book of Management](https://idvork.in/manager-book): Another manager playbook.
