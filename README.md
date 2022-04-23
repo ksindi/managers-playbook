@@ -117,6 +117,8 @@ Heuristics for effective management.
 
 ## Feedback
 
+Giving great feedback to reports/managers/peers is one of the most impactful things you can do to drive alignment and build trust.
+
 1. Be prompt, ideally providing feedback the same day of the event that prompted it.
 1. Get buy-in about providing feedback and reduce mystery by giving context:
     - "Do you have 10 minutes?"  ⛔️
@@ -148,6 +150,8 @@ Heuristics for effective management.
     - "My initial reaction to your proposal is..."
     - "Here's what I would do" is better than "Here's what you should do"
     - "When you did X, I felt Y"
+
+More on feedback: https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent.
 
 
 ## Thinking strategically
@@ -364,3 +368,4 @@ Onboarding material:
 1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e): How to measure successful one on ones.
 1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
 1. [Toxic Meeting Culture](https://erikbern.com/2017/12/29/toxic-meeting-culture.html): How to avoid meeting antipatterns.
+1. [The rise of feedback: Why feedback skills have become urgent](https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent)
