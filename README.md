@@ -151,9 +151,6 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
     - "Here's what I would do" is better than "Here's what you should do"
     - "When you did X, I felt Y"
 
-More on feedback: https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent.
-
-
 ## Thinking strategically
 
 1. What would you do with one more person?
@@ -167,8 +164,6 @@ More on feedback: https://ideas.lifelabslearning.com/the-rise-of-feedback-why-fe
 1. What are your team's pain points? How can you move 2x faster?
 1. How well can your team operate without you?
 1. If the company failed, what would be most likely reason?
-1. What ["dogs not barking"](http://www.mikepope.com/blog/AddComment.aspx?blogid=2392) do you worry about?
-
 
 ## Making decisions
 
@@ -316,7 +311,7 @@ Onboarding material:
     1. A checklist of all accesses expected (e.g. AWS, PagerDuty)
     1. Running your apps locally
     1. Deploying your first bug fix
-1. Meetings. Who should your new team member meet with?
+1. New hire meetings. Who should your new team member meet with?
 
 
 ## Managing up
@@ -327,15 +322,6 @@ Onboarding material:
     1. Why did the timeline change?
     1. How confident are you with the new timeline?
 1. Nobody cares for blame or excuses. Own mistakes and document corrective actions you will take to mitigate them going forward.
-
-## Managing sideways
-
-1. Get buy in by presenting the problem and not the solution.
-    1. "What is the best way for us to do feature X?"
-    1. "I need you to do X and here's how" ⛔️
-1. Ask for timelines to hold your peer accountable on delivery dates.
-1. If you disagree on an approach, document your concerns. Having an audit trail improves accountability.
-1. Create project kickoffs and standups to make sure you are aware of the other team's status and priorities.
 
 ## Announcing change
 
@@ -369,3 +355,5 @@ Onboarding material:
 1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
 1. [Toxic Meeting Culture](https://erikbern.com/2017/12/29/toxic-meeting-culture.html): How to avoid meeting antipatterns.
 1. [The rise of feedback: Why feedback skills have become urgent](https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent)
+1. [Want to get better feedback? Ask a better question. Here’s how.
+](https://medium.com/lifelabs-learning/want-to-get-better-feedback-ask-a-better-question-heres-how-64d679a598a)
