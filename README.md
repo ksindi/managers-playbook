@@ -357,3 +357,4 @@ Onboarding material:
 1. [The rise of feedback: Why feedback skills have become urgent](https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent)
 1. [Want to get better feedback? Ask a better question. Here’s how.
 ](https://medium.com/lifelabs-learning/want-to-get-better-feedback-ask-a-better-question-heres-how-64d679a598a)
+1. [The Software Engineering Manager Interview Guide](https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28): a comprehensive, no-nonsense book about landing an engineering leadership role at a top-tier tech company. You will learn how to master the different kinds of engineering management interview questions. If you only pick up one or two tips from this book, it could make the difference in getting the dream job you want.
