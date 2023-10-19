@@ -1,4 +1,4 @@
-[principles]: #principles
+[what-makes-a-great-manager]: #principles
 [one-on-ones]: #one-on-ones
 [coaching]: #coaching
 [feedback]: #feedback
@@ -11,17 +11,15 @@
 [onboarding]: #onboarding
 [announcing-change]: #announcing-change
 [managing-up]: #managing-up
-[managing-sideways]: #managing-sideways
 [further-reading]: #further-reading
 
 # Manager's Playbook
 
 Heuristics for effective management.
 
-
 ## Table of Contents
 
-1. [Principles][principles]
+1. [What makes a great engineering manager][what-makes-a-great-manager]
 1. [One-on-ones][one-on-ones]
 1. [Coaching][coaching]
 1. [Feedback][feedback]
@@ -33,36 +31,32 @@ Heuristics for effective management.
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
 1. [Managing up][managing-up]
-1. [Managing sideways][managing-sideways]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
 
+## What makes a great engineering manager?
 
-## Principles
-
-1. Have a bias for action and decision-making over planning and consensus.
-1. Favor [writing][communicating] over meeting.
-1. Understand how your products are used in the wild. For example, join sales and support calls.
-1. Work backward by focusing on the outcomes you want to achieve.
-1. Encourage ownership by asking [open questions][coaching].
-1. Be the cheerleader. Celebrate success often and reinforce positive behavior.
-1. Know how to differentiate between [reversible and irreversible decisions][making-decisions].
-1. Ensure every report is aware of the top priorities of the team, organization and company.
-1. No task is beneath a manager. Get your hands dirty even if it's not coding:  
-    <img src="images/non-coding-contributions.png" width="400">
-
+1. **Great managers are great leaders**. They have a clear vision and can communicate it effectively.  Ensure every report is aligned on the top priorities of the team, organization and company.
+1. **Great managers are great coaches**. They help their reports grow by asking open questions and giving feedback. Encourage ownership by asking [open questions][coaching].
+1. **Great managers are great communicators**. They communicate effectively by appealing to both emotions and logic
+1. **Great managers are great decision makers**. They make decisions by focusing on the intended outcome and the tradeoffs. They know how to differentiate between [reversible and irreversible decisions][making-decisions]. Have a bias for action and decision-making over planning and consensus.
+1. **Great managers are great at hiring**. They hire people who are better than them and have a clear career progression.
+1. **Great managers are great at thinking strategically**. They understand the big picture and how their team's work fits into it.
+1. **Great managers are also great tactically**. They can code, write and run meetings effectively. No task is beneath a manager. Get your hands dirty even if it's not coding. Understand how your products are used in the wild. Join sales and support calls.
 
 ## One-on-ones
 
-1. Never skip one-on-ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+Never skip one-on-ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+
 1. Aim for weekly one-on-ones.
+1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
 1. Focus on 5 topics:
     - Predictability: create routine, set expectations, normalize change.
     - Ownership: offer options, clarify ownership, give more responsibilities.
     - Purpose: clarify the big picture value and importance of their tasks.
     - Progress: create milestones, share wins, celebrate progress.
     - Belonging: team culture and management.
-1. Questions to help frame each topic. "On a scale of 1-10 how would you rate:..."
+1. I find it helpful to do a healthcheck every month or quarter. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
     - Purpose: How much your work makes a difference for the team?
@@ -101,25 +95,35 @@ Heuristics for effective management.
     1. What do you like to see from a manager?
 1. One on ones where the report is also a manager are typically more "business" where the focus is on strategy, team health and project alignment.
 
+## Standups
+
+I like to organize standups in the following format.
 
 ## Coaching
+
+Coaching is the most important skill a manager can have. It's the best way to help your reports grow and take ownership of their work.
 
 1. Default to open questions: ask questions starting with **what**, **how**, **who** instead of closed-ended ones like **do**, **have**, **is** to invite conversation and give ownership over a problem.
     - "What questions do you have?" is better than "Do you have any questions?".
     - "Why do you think this is the right approach?" is better than "Is this a good idea?".
     - Respond with "What are your thoughts so far?" when asked "What should I do?"
 1. Summarize what the person is saying so you're both on the same page and are pinpointing the problem.
-    -  "It sounds like there are two issues, x and y. Which should we focus on first?"
+    - "It sounds like there are two issues, x and y. Which should we focus on first?"
 1. Figure out how to make the meeting productive:
     - "What's the next step?"
     - "How should we track this?"
 
+## Project management
+
+1. Create a shared document with your report to track project progress and action items.
+
+### Scrum vs. Kanban?
 
 ## Feedback
 
 Giving great feedback to reports/managers/peers is one of the most impactful things you can do to drive alignment and build trust.
 
-1. Be prompt, ideally providing feedback the same day of the event that prompted it.
+1. Be prompt, ideally providing feedback the same day of the event that prompted it. Wiating too long makes it seem like you're holding a grudge and they might not remember details after a couple of days.
 1. Get buy-in about providing feedback and reduce mystery by giving context:
     - "Do you have 10 minutes?"  ⛔️
     - "Do you have 10 minutes to talk about this morning's stand up?"
@@ -128,6 +132,9 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
 1. Be specific even if it's positive feedback.
     - "Good job!"  ⛔️
     - "I like the initiative you took to reduce the service's memory footprint. It encourages me to give you more ownership so that I can focus elsewhere."
+1. Avoid praising for doing their job. You want to make sure it's sincere and not just a way to avoid giving negative feedback.
+    - "Thanks for fixing that bug"  ⛔️
+    - "Thanks for fixing that bug. It was critical to the customer and you got it done quickly."
 1. Focus on data and not behavior:
     - "I noticed you didn't address any of the comments made in your last three PRs"
     - "I noticed that you didn't pick up the ticket I asked you to do"
@@ -152,6 +159,8 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
     - "When you did X, I felt Y"
 
 ## Thinking strategically
+
+No matter what level you are in the organization, you should be thinking strategically. This means understanding the big picture and how your team's work fits into it.
 
 1. What would you do with one more person?
 1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
@@ -185,10 +194,10 @@ Regardless, everyone should be aware the decision is ultimately yours and the te
 to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made.
 1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
 
-
 ## Coding
 
 Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
+
   1. Authoring a feature?  ⛔️
   1. Covering on-call when someone needs a break?  ✅
   1. Diving on the biggest project after a postmortem?  ⛔️
@@ -197,7 +206,6 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
   1. Insisting that all commits be gated on their approval?  ⛔️
   1. Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
 
-
 ## Ticket and PR process
 
 1. Set contributing guidelines for the team.
@@ -205,10 +213,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Prioritize PRs to unblock tickets.
 1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
 
-
-## Communicating
-
-### Writing
+## Writing
 
 1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs.
 1. Favor enumerated lists over bullet list; they're easier to reference.
@@ -220,16 +225,7 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
     1. [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
     1. [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 
-### Email
-
-1. Prefix the subject with `[Action Required]` if you expect the reader to take action.
-1. Structure your email in the following way (from [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf)):
-    1. First Paragraph — no more than 2 sentences. This would be the headline and critical information
-    1. Second paragraph — 3–7 bullets. The more bullets, the lower line length. Aim to not wrap sentences.
-    1. Third (final) paragraph — no more than 2–3 sentences focused on the action needed, follow up, and timelines.
-1. "Schedule send" emails when outside of business hours unless they're just FYIs or you need an immediate response.
-
-### Meetings
+## Meetings
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting.
     > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." – Erik Bernhardsson
@@ -239,7 +235,6 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
     > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" – Ben Horowitz
 1. It's worth occasionally asking the meeting attendees whether the meeting is productive or how can it improve.
 1. Before sending an invite, ask yourself why this meeting can't be communicated over email.
-
 
 ## Hiring
 
@@ -280,8 +275,9 @@ What to watch out for:
 1. **Short tenure at companies**. If a candidate typically stays at companies for less than a year, ask them why. There might be perfectly valid reasons or it might indicate a pattern that the person is difficult to work with.
     1. Why did you only work at X for less than 1 year?
 1. **Menu of technologies**. Resumes that just list technologies used instead of problems solved may indicate person may not be thinking big picture. Also a typical trait of junior engineers.
-1. **Long resumes**. More than 2 pages may indicate the person has difficulty distilling what's important. That being said, there can be culture reasons for long resumes. For example, in some European countries, resumes are encouraged to be long.
-
+1. **Lack of curiosity**. Does the person ask questions about the company, product or team?
+1. **No career progression**. Does the person have a clear career progression? If not, why?
+1. **Lack of quantifiable metrics**. Does the person have metrics to show the impact of their work?
 
 ## Onboarding
 
@@ -290,6 +286,7 @@ Having a good onboarding process is crucial to the success of your team. It ensu
 An onboarding process is successful if your new team member can contribute a bug fix on their first day of joining.
 
 Onboarding material:
+
 1. Team mission
     1. How is your team moving the needle for the customer?
 1. Team members
@@ -312,7 +309,6 @@ Onboarding material:
     1. Running your apps locally
     1. Deploying your first bug fix
 1. New hire meetings. Who should your new team member meet with?
-
 
 ## Managing up
 
@@ -337,9 +333,15 @@ Onboarding material:
 1. Examples:
     1. [Carta's covid-19 layoff](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d)
 
+## Becoming a Director/VP
+
+1. [What does a VP of Engineering do?](https://www.kennorton.com/essays/vp-engineering.html)
+
 ## Further reading
 
 1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles): The best principles around leadership to operate by.
+1. [Good Strategy/Bad Strategy]
+1. [Innovators Solution]
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
 1. [5 questions every Engineering Manager should be asking themselves](https://www.getclockwise.com/blog/5-questions-every-engineering-manager-should-be-asking-themselves)
