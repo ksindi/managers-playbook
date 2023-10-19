@@ -1,4 +1,5 @@
-[what-makes-a-great-manager]: #principles
+[who-is-this-for]: #who-is-this-for
+[what-makes-a-great-manager]: #what-makes-a-great-engineering-manager
 [one-on-ones]: #one-on-ones
 [coaching]: #coaching
 [feedback]: #feedback
@@ -6,7 +7,6 @@
 [making-decisions]: #making-decisions
 [coding]: #coding
 [ticket-and-pr-process]: #ticket-and-pr-process
-[communicating]: #communicating
 [hiring]: #hiring
 [onboarding]: #onboarding
 [announcing-change]: #announcing-change
@@ -19,7 +19,8 @@ Heuristics for effective management.
 
 ## Table of Contents
 
-1. [What makes a great engineering manager][what-makes-a-great-manager]
+1. [Who is this for?][who-is-this-for]
+1. [What makes a great engineering manager?][what-makes-a-great-manager]
 1. [One-on-ones][one-on-ones]
 1. [Coaching][coaching]
 1. [Feedback][feedback]
@@ -27,28 +28,36 @@ Heuristics for effective management.
 1. [Making decisions][making-decisions]
 1. [Coding][coding]
 1. [Ticket and PR process][ticket-and-pr-process]
-1. [Communicating][communicating]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
 1. [Managing up][managing-up]
 1. [Announcing change][announcing-change]
 1. [Further reading][further-reading]
 
+## Who is this for?
+
+This is a collection of heuristics I've learned from my own experience and from other managers. It's meant to be a living document. I try to keep it short and to the point so it can serve as a reference.
+
+Management is a set skills that can be learned and improved upon. It's not a natural talent that some people are born with. It's not a personality trait. It's not a title.
+
 ## What makes a great engineering manager?
 
-1. **Great managers are great leaders**. They have a clear vision and can communicate it effectively.  Ensure every report is aligned on the top priorities of the team, organization and company.
-1. **Great managers are great coaches**. They help their reports grow by asking open questions and giving feedback. Encourage ownership by asking [open questions][coaching].
-1. **Great managers are great communicators**. They communicate effectively by appealing to both emotions and logic
-1. **Great managers are great decision makers**. They make decisions by focusing on the intended outcome and the tradeoffs. They know how to differentiate between [reversible and irreversible decisions][making-decisions]. Have a bias for action and decision-making over planning and consensus.
-1. **Great managers are great at hiring**. They hire people who are better than them and have a clear career progression.
-1. **Great managers are great at thinking strategically**. They understand the big picture and how their team's work fits into it.
-1. **Great managers are also great tactically**. They can code, write and run meetings effectively. No task is beneath a manager. Get your hands dirty even if it's not coding. Understand how your products are used in the wild. Join sales and support calls.
+An exceptional engineering manager is a leader continuously improving the teams standards, sharpening focus, building a sense of purpose by refining the narrative.
+
+Questions you should ask yourself:
+
+1. Do I lead by example?
+2. Do I have a clear vision for the team?
 
 ## One-on-ones
 
-Never skip one-on-ones. It's the best platform for receiving and giving feedback. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+Never skip one-on-ones. It's a forcing function for receiving and giving feedback and connecting with your team member. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
 
-1. Aim for weekly one-on-ones.
+This is mostly recommendations for one-on-ons with individual contirburors. One-on-ones with managers are typically more "business" where the focus is on strategy, team health and project planning.
+
+Some tips:
+
+1. Aim for bi-weekly one-on-ones but offer to adjust cadence based on their preference.
 1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
 1. Focus on 5 topics:
     - Predictability: create routine, set expectations, normalize change.
@@ -56,48 +65,38 @@ Never skip one-on-ones. It's the best platform for receiving and giving feedback
     - Purpose: clarify the big picture value and importance of their tasks.
     - Progress: create milestones, share wins, celebrate progress.
     - Belonging: team culture and management.
-1. I find it helpful to do a healthcheck every month or quarter. "On a scale of 1-10 how would you rate:..."
+1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normall if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
     - Purpose: How much your work makes a difference for the team?
     - Progress: The sense of progression each week?
     - Belonging: Your feeling of connection to the team?
-1. Additional questions to ask on a less frequent basis:
-    1. Motivators:
-        1. Which part of your work is most fun?
-        1. What's not fun about working here?
-        1. What are the biggest time wasters for you each week?
-    1. Long term goals:
-        1. What skills do you want to improve?
-        1. What career path are you looking for?
-        1. Who in the company would you be excited to learn more from?
-        1. What parts of the business would you like to be more involved in?
-    1. Organization awareness:
-        1. What don't you like about the product?
-        1. What's the biggest opportunity that we're missing out on?
-        1. What do you see as your top 3 priorities this quarter? The team’s? The org's?
-        1. If you were CEO, what would you do differently?
-    1. Manager's role:
-        1. What could I do to support you better?
-        1. If you were me, what are 1 to 3 things you would change?
-        1. How do you feel about the amount of feedback you are getting?
-        1. I need feedback. What are two things that I can do differently?
-        1. What's one thing we could do to improve our way of collaborating?
-    1. Priorities:
-        1. What are your top priorities this week?
-        1. What will success look like?
-        1. What are obstacles?
+1. Additional questions to help motivate discussion:
+    - Which part of your work is most fun?
+    - What's not fun about working here?
+    - What are the biggest time wasters for you each week?
+    - What skills do you want to improve?
+    - What career path are you looking for?
+    - Who in the company would you be excited to learn more from?
+    - What parts of the business would you like to be more involved in?
+    - What don't you like about the product?
+    - What's the biggest opportunity that we're missing out on?
+    - What do you see as your top 3 priorities this quarter? The team’s? The org's?
+    - If you were CEO, what would you do differently?
+    - What could I do to support you better?
+    - If you were me, what are 1 to 3 things you would change?
+    - How do you feel about the amount of feedback you are getting?
+    - I need feedback. What's one thing I can do differently?
+    - What's one thing we could do to improve our way of collaborating?
 1. Encourage your direct reports to bring up topics:  
     <img src="images/1_1s.jpg" width="400">  
-1. See [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
-1. There isn't one best management style. Figure out how someone wants to be managed in your initial one on one:
+1. There isn't one best management style. Figure out how someone wants to be managed in your initial one-on-one:
     1. What did you like about your previous manager? What didn't you like?
     1. What do you like to see from a manager?
-1. One on ones where the report is also a manager are typically more "business" where the focus is on strategy, team health and project alignment.
 
-## Standups
+For further reading, see [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
 
-I like to organize standups in the following format.
+## Effective teams
 
 ## Coaching
 
@@ -115,9 +114,9 @@ Coaching is the most important skill a manager can have. It's the best way to he
 
 ## Project management
 
-1. Create a shared document with your report to track project progress and action items.
+TODO
 
-### Scrum vs. Kanban?
+## Skills you should have
 
 ## Feedback
 
@@ -162,8 +161,10 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
 
 No matter what level you are in the organization, you should be thinking strategically. This means understanding the big picture and how your team's work fits into it.
 
+Questions you should be asking yourself?
+
 1. What would you do with one more person?
-1. How is your team moving the needle? Are you focusing on the right things? How do you know the features you're building will benefit the customer?
+1. How is your team moving the needle? Are you focusing on the right things?
 1. What are your product's mission and tenets?
 1. What is your team's morale? Have you asked them what's not fun about working here?
 1. What are the company's top priorities this year? Where should the company be three years from now?
@@ -173,6 +174,10 @@ No matter what level you are in the organization, you should be thinking strateg
 1. What are your team's pain points? How can you move 2x faster?
 1. How well can your team operate without you?
 1. If the company failed, what would be most likely reason?
+
+Great books on strategy:
+
+1. [Good Strategy/Bad Strategy]
 
 ## Making decisions
 
@@ -332,6 +337,31 @@ Onboarding material:
     1. Start with the people who it affects the most.
 1. Examples:
     1. [Carta's covid-19 layoff](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d)
+
+## Standups
+
+I like to organize standups in the following format:
+
+#### Monday
+
+1. Before Meeting (on-call): Make a list of notable alerts from the items below
+2. Weekend highlights (popcorn style)
+3. Review notable monitoring info from above
+4. Review on-call tickets.
+5. Deploys: Any major/risky deployments the team should be aware of
+6. Priorities: What epics are people working on this week
+7. Review ticket board
+
+#### Wednesday
+
+1. Review PR Backlog and GitHub dependabot issues
+2. Review in progress tickets
+
+#### Thursday
+
+#### Friday
+
+1. Small popcorn retro where everyone talks about highlights and lowlights. What went well? What didn't go well?Could we do anything to make this better (If so, add tickets!)?
 
 ## Becoming a Director/VP
 
