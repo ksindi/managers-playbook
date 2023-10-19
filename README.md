@@ -40,20 +40,32 @@ This is a collection of heuristics I've learned from my own experience and from 
 
 Management is a set skills that can be learned and improved upon. It's not a natural talent that some people are born with. It's not a personality trait. It's not a title.
 
+This is mostly advice for people starting their career as a manager. It's also useful for experienced managers who want to improve their skills.
+
 ## What makes a great engineering manager?
 
-An exceptional engineering manager is a leader continuously improving the teams standards, sharpening focus, building a sense of purpose by refining the narrative.
+An exceptional engineering manager is a leader continuously improving the team's standards, picking up the pace, sharpening focus, building a sense of purpose.
+
+Great engineering managers should be highly technical. They should be able to understand the technical details of a project and be able to contribute to it. They should be able to make technical decisions and be able to explain the why behind them. That doesn't mean
 
 Questions you should ask yourself:
 
 1. Do I lead by example?
 2. Do I have a clear vision for the team?
+3. Does everyone in the team understand the priorities?
+4. Do I know how to contribute to the code base?
+5. Can I deploy a change?
+6. Do I know how to run the service locally?
+7. Can I dive deep on the product, system architecture and code base?
+8. Could I answer a support question?
+9. Do I understand our monitors and metrics?
+10. Can I communicate bad news?
 
 ## One-on-ones
 
 Never skip one-on-ones. It's a forcing function for receiving and giving feedback and connecting with your team member. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
 
-This is mostly recommendations for one-on-ons with individual contirburors. One-on-ones with managers are typically more "business" where the focus is on strategy, team health and project planning.
+Note this is mostly recommendations for one-on-ons with individual contirburors. One-on-ones with managers are typically more "business" where the focus is on strategy, team health and project planning.
 
 Some tips:
 
@@ -97,6 +109,14 @@ Some tips:
 For further reading, see [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
 
 ## Effective teams
+
+Every team should have 3 things:
+
+1. Autonomy: work stream are not dependent in other teams. Teams can make decisions without needing approval from other teams.
+2. Master of domain: team are experts in their domain. They know the product, the code base and the business.
+3. Purpose: team understands the big picture and how their work fits into it. They understand the why behind their work.
+
+Without these 3 characteristics, teams will be less effective and less motivated.
 
 ## Coaching
 
@@ -201,7 +221,7 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 ## Coding
 
-Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from [Charity Majors](https://twitter.com/mipsytipsy):
+If you have more than 5 reports, you should generally avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from Charity Majors:
 
   1. Authoring a feature?  ⛔️
   1. Covering on-call when someone needs a break?  ✅
@@ -218,34 +238,23 @@ Avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/enginee
 1. Prioritize PRs to unblock tickets.
 1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
 
-## Writing
+## Meeting
 
-1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs.
-1. Favor enumerated lists over bullet list; they're easier to reference.
-1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).  
-    <img src="images/write-like-an-amazonian.jpg" width="400">
-1. Write music.  
-    <img src="images/write-music.png" width="400">
-1. Examples:
-    1. [It's Time to Build](https://a16z.com/2020/04/18/its-time-to-build/)
-    1. [We Don’t Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
-
-## Meetings
-
-1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting.
+1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting. Whoever wants the meeting should write the proposal.
     > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." – Erik Bernhardsson
-1. Avoid sync or recurring meetings with no standing agenda.
+1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs. I find it very helpul to create tech spec templates (TODO: link).
+1. I find it especially helpful dedicate time during meetings for reading and discussing proposals. This ensures everyone is on the same page and avoids the "I didn't have time to read it" excuse. It will also make sure it's the latest thing in everyone's memory buffer.
+1. Avoid recurring meetings with no agenda. If you're invited to one, ask for an agenda.
+1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
-1. For staff meetings, go around the table and ask reports what their biggest concerns are.  
-    > Many managers want to attend executive staff meetings, as it makes them feel needed and puts them in the know. I made use of this desire by setting a price of admission to the meeting: you had to fess up to at least one thing that was 'on fire.'" – Ben Horowitz
-1. It's worth occasionally asking the meeting attendees whether the meeting is productive or how can it improve.
-1. Before sending an invite, ask yourself why this meeting can't be communicated over email.
+
+<img src="images/write-like-an-amazonian.jpg" width="400">
 
 ## Hiring
 
 > If you can 'hire tough,' you can 'manage easy' – Sue Tetzlaff, The Employee Experience
 
-Hiring is the most important decision a manager makes.
+Hiring is the most important decision a manager makes. It's also the most difficult. It's a skill that can be learned and improved upon.
 
 What to look for in senior engineers:
 
