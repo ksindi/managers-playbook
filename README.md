@@ -105,14 +105,16 @@ For further reading, see [Getting more from your one on ones](https://medium.com
 
 Every team should possess six key attributes:
 
-1. Autonomy: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team.
-2. Mastery of Domain: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
-3. Purpose: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks.
-4. Clarity: Ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work.
-5. Urgency: The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
-6. Efficiency: Teams should be able to operate with minimal overhead. This is accomplished by having greating tooling and a clear processes (e.g. testing, change management, etc.).
+1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team.
+2. **Mastery of Domain**: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
+3. **Purpose**: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks.
+4. **Clarity**: Ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work.
+5. **Urgency**: The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
+6. **Efficiency**: Teams should be able to operate with minimal overhead. This is accomplished by having greating tooling and a clear processes (e.g. testing, change management, etc.).
 
 Lacking these pillars, teams risk being less effective and may experience diminished motivation.
+
+For further reading check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819).
 
 ## Coaching
 
@@ -308,6 +310,7 @@ Onboarding material:
 1. Team members
     1. Include: name, role/title, email, slack username, github username
 1. Repositories and services
+    1. Include system diagrams
 1. How to communicate within the team
     1. Slack channels
     1. Keeping yourself informed
@@ -323,7 +326,7 @@ Onboarding material:
     1. Installation instructions (e.g. Docker, postgres).
     1. A checklist of all accesses expected (e.g. AWS, PagerDuty)
     1. Running your apps locally
-    1. Deploying your first bug fix
+    1. Deploying your first bug fix (tip: label some tickets as "good first bug")
 1. New hire meetings. Who should your new team member meet with?
 
 ## Managing up
