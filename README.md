@@ -36,7 +36,7 @@ Heuristics for effective management.
 
 ## Who is this for?
 
-This is a collection of heuristics I've learned from my own experience and from other managers. It's meant to be a living document. I try to keep it short and to the point so it can serve as a reference.
+This is a collection of heuristics I've learned from my own experience and from other managers. It's meant to be a living document. I try to keep it short and to the point.
 
 Management is a set skills that can be learned and improved upon. It's not a natural talent that some people are born with. It's not a personality trait. It's not a title.
 
@@ -44,40 +44,50 @@ This is mostly advice for people starting their career as a manager. It's also u
 
 ## What makes a great engineering manager?
 
-An exceptional engineering manager is a leader continuously improving the team's standards, picking up the pace, sharpening focus, building a sense of purpose.
+Your job first and foremost is to execute. As a manager, you are a leader who harnesses your team's skills to achieve specific goals. To accomplish this, you need to be an adept coach, communicator, and decision-maker. However, these roles are merely means to an end.
 
-Great engineering managers should be highly technical. They should be able to understand the technical details of a project and be able to contribute to it. They should be able to make technical decisions and be able to explain the why behind them. That doesn't mean
+An outstanding engineering manager continuously elevates the team's standards, quickens the pace, sharpens focus, and instills a sense of purpose. Each week, you should see a team that has progressed beyond its previous week's performance. You amplify the collective potential, making the whole team greater than the sum of its parts. While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
 
-Questions you should ask yourself:
+As you navigate this role, reflect on the following:
 
-1. Do I lead by example?
-2. Do I have a clear vision for the team?
-3. Does everyone in the team understand the priorities?
-4. Do I know how to contribute to the code base?
-5. Can I deploy a change?
-6. Do I know how to run the service locally?
-7. Can I dive deep on the product, system architecture and code base?
-8. Could I answer a support question?
-9. Do I understand our monitors and metrics?
-10. Can I communicate bad news?
+1. Is my vision for the team clear and compelling?
+2. Does every team member grasp our top priorities?
+3. Can I contribute meaningfully to our codebase?
+4. Do I lead by example?
+5. Can I dive deep on the product, system architecture and code base?
+6. Could I answer a support question?
+7. Do I understand our monitors and metrics?
+8. Can I communicate bad news?
+9. Can I speak on behalf of my team?
+10. Am I pressure testing my team's decisions?
+
+## Should I be technical?
+
+Effective engineering managers ought to possess a strong technical background, having firsthand experience with the challenges their teams encounter. I advise individuals to consider transitioning into management only after reaching at least a senior engineer level. It's essential to bear the battle scars of technical endeavors.
+
+Such managers should comprehend the technical intricacies of a project and even be capable of contributing to it. They must be adept at making technical decisions and articulate the reasoning behind them. However, this doesn't imply they should be actively coding on the critical path or making all the decisions.
+
+If you have more than 5 direct reports, you should generally avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from Charity Majors:
+
+1. Authoring a feature?  ⛔️
+2. Covering on-call when someone needs a break?  ✅
+3. Diving on the biggest project after a postmortem?  ⛔️
+4. Code reviews?  ✅
+5. Picking up a p2 bug that's annoying but never seems to become top priority?  ✅
+6. Insisting that all commits be gated on their approval?  ⛔️
+7. Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
 
 ## One-on-ones
 
-Never skip one-on-ones. It's a forcing function for receiving and giving feedback and connecting with your team member. Most teammates value it and usually when they don't it's because they haven't seen one conducted well.
+Never bypass one-on-ones. They serve as an essential mechanism for both receiving and offering feedback, as well as fostering a connection with your team member. Many team members cherish these sessions, and if they don't, it's often because they haven't experienced a well-conducted one-on-one.
 
-Note this is mostly recommendations for one-on-ons with individual contirburors. One-on-ones with managers are typically more "business" where the focus is on strategy, team health and project planning.
+Do note that these recommendations primarily pertain to one-on-ones with individual contributors. One-on-ones with managers typically lean more towards "business" matters, emphasizing strategy, team well-being, and project planning.
 
-Some tips:
+Some general tips:
 
-1. Aim for bi-weekly one-on-ones but offer to adjust cadence based on their preference.
+1. Aim for bi-weekly one-on-ones but offer to adjust cadence based on your teammate's preference.
 1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
-1. Focus on 5 topics:
-    - Predictability: create routine, set expectations, normalize change.
-    - Ownership: offer options, clarify ownership, give more responsibilities.
-    - Purpose: clarify the big picture value and importance of their tasks.
-    - Progress: create milestones, share wins, celebrate progress.
-    - Belonging: team culture and management.
-1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normall if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
+1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normally if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
     - Purpose: How much your work makes a difference for the team?
@@ -100,23 +110,24 @@ Some tips:
     - How do you feel about the amount of feedback you are getting?
     - I need feedback. What's one thing I can do differently?
     - What's one thing we could do to improve our way of collaborating?
-1. Encourage your direct reports to bring up topics:  
-    <img src="images/1_1s.jpg" width="400">  
-1. There isn't one best management style. Figure out how someone wants to be managed in your initial one-on-one:
-    1. What did you like about your previous manager? What didn't you like?
-    1. What do you like to see from a manager?
+
+Encourage your direct reports to bring up topics:  
+<img src="images/1_1s.jpg" width="400">  
 
 For further reading, see [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e) for more thoughts on effective one on ones.
 
 ## Effective teams
 
-Every team should have 3 things:
+Every team should possess six key attributes:
 
-1. Autonomy: work stream are not dependent in other teams. Teams can make decisions without needing approval from other teams.
-2. Master of domain: team are experts in their domain. They know the product, the code base and the business.
-3. Purpose: team understands the big picture and how their work fits into it. They understand the why behind their work.
+1. Autonomy: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team.
+2. Mastery of Domain: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
+3. Purpose: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks.
+4. Clarity: Ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work.
+5. Urgency: The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
+6. Efficiency: Teams should be able to operate with minimal overhead. This is accomplished by having greating tooling and a clear processes (e.g. testing, change management, etc.).
 
-Without these 3 characteristics, teams will be less effective and less motivated.
+Lacking these pillars, teams risk being less effective and may experience diminished motivation.
 
 ## Coaching
 
@@ -134,9 +145,13 @@ Coaching is the most important skill a manager can have. It's the best way to he
 
 ## Project management
 
-TODO
+There is no one right way to manage projects. It depends on the team's size, the type of project, and the team's maturity. Here are some general tips:
 
-## Skills you should have
+1. Break down projects into small chunks that can be completed in a week or two.
+2. Prioritize projects that have the highest impact and are the most urgent.
+3. Assign a single owner to each project. This person is responsible for driving the project forward and communicating progress. Have the create a tech spec and work backwards on the due date.
+
+A great book on project execution is [How Big Things Get Done](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512).
 
 ## Feedback
 
@@ -197,7 +212,9 @@ Questions you should be asking yourself?
 
 Great books on strategy:
 
-1. [Good Strategy/Bad Strategy]
+1. [Good Strategy/Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
+2. [Innovator's Solution](https://www.amazon.com/Innovators-Solution-Sustaining-Successful-Christensen/dp/B00N1PDLAM)
+3. [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
 
 ## Making decisions
 
@@ -219,31 +236,19 @@ Regardless, everyone should be aware the decision is ultimately yours and the te
 to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made.
 1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
 
-## Coding
-
-If you have more than 5 reports, you should generally avoid coding in the critical path. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from Charity Majors:
-
-  1. Authoring a feature?  ⛔️
-  1. Covering on-call when someone needs a break?  ✅
-  1. Diving on the biggest project after a postmortem?  ⛔️
-  1. Code reviews?  ✅
-  1. Picking up a p2 bug that's annoying but never seems to become top priority?  ✅
-  1. Insisting that all commits be gated on their approval?  ⛔️
-  1. Cleaning up the monitoring checks and writing a library to generate coverage?  ✅
-
 ## Ticket and PR process
 
 1. Set contributing guidelines for the team.
-1. PRs should small enough to be properly reviewed in under an hour.
 1. Prioritize PRs to unblock tickets.
-1. Automate opinions like style with linting or code formatters like [black](https://github.com/ambv/black).
+1. Avoid merge rot. I suggest using one of your standups to review the PR backlog and call out PRs more than 2 days old.
+1. Automate opinions like style with linting or code formatters.
 
 ## Meeting
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting. Whoever wants the meeting should write the proposal.
     > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." – Erik Bernhardsson
-1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs. I find it very helpul to create tech spec templates (TODO: link).
-1. I find it especially helpful dedicate time during meetings for reading and discussing proposals. This ensures everyone is on the same page and avoids the "I didn't have time to read it" excuse. It will also make sure it's the latest thing in everyone's memory buffer.
+1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs. I find it very helpul to create tech spec templates.
+1. Dedicate time during meetings for reading and discussing proposals. This ensures everyone is on the same page and avoids the "I didn't have time to read it" excuse. It will also make sure it's the latest thing in everyone's memory buffer.
 1. Avoid recurring meetings with no agenda. If you're invited to one, ask for an agenda.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
 1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
@@ -293,6 +298,15 @@ What to watch out for:
 1. **No career progression**. Does the person have a clear career progression? If not, why?
 1. **Lack of quantifiable metrics**. Does the person have metrics to show the impact of their work?
 
+Questions to ask yourself about the candidate:
+
+1. **Are they better than the average person on the team?** If not, you're not raising the bar.
+2. **Do you admire this person and want to learn from them?** If not, you're not hiring people better than you.
+
+### References
+
+You should never skip doing reference calls. They can tell you a lot about the candidate. Here are some tips: <https://gist.github.com/ksindi/bbade71640bb62c4547348c3bb355739>.
+
 ## Onboarding
 
 Having a good onboarding process is crucial to the success of your team. It ensures new members are contributing as early as possible and are assimilated into your processes and culture.
@@ -340,12 +354,8 @@ Onboarding material:
 1. Appeal to emotions by using narrative to explain the why.
     1. Why is this change important now for the company?
     1. Who does this change affect?
-1. Appeal to logic by using facts.
-    1. What metrics will this change achieve?
-1. Socialize the change to get buy in.
-    1. Start with the people who it affects the most.
-1. Examples:
-    1. [Carta's covid-19 layoff](https://medium.com/@henrysward/cartas-covid-19-layoff-cbb80e3e8a5d)
+1. Appeal to logic by using facts. What metrics will this change achieve?
+1. Socialize the change to get buy in. Start with the people who it affects the most.
 
 ## Standups
 
@@ -378,9 +388,6 @@ I like to organize standups in the following format:
 
 ## Further reading
 
-1. [Amazon Leadership Principles](https://www.amazon.jobs/en/principles): The best principles around leadership to operate by.
-1. [Good Strategy/Bad Strategy]
-1. [Innovators Solution]
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
 1. [5 questions every Engineering Manager should be asking themselves](https://www.getclockwise.com/blog/5-questions-every-engineering-manager-should-be-asking-themselves)
