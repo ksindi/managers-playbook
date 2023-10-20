@@ -5,7 +5,6 @@
 [feedback]: #feedback
 [thinking-strategically]: #thinking-strategically
 [making-decisions]: #making-decisions
-[coding]: #coding
 [ticket-and-pr-process]: #ticket-and-pr-process
 [hiring]: #hiring
 [onboarding]: #onboarding
@@ -26,7 +25,6 @@ Heuristics for effective management.
 1. [Feedback][feedback]
 1. [Thinking strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
-1. [Coding][coding]
 1. [Ticket and PR process][ticket-and-pr-process]
 1. [Hiring][hiring]
 1. [Onboarding][onboarding]
@@ -48,22 +46,9 @@ Your job first and foremost is to execute. As a manager, you are a leader who ha
 
 An outstanding engineering manager continuously elevates the team's standards, quickens the pace, sharpens focus, and instills a sense of purpose. Each week, you should see a team that has progressed beyond its previous week's performance. You amplify the collective potential, making the whole team greater than the sum of its parts. While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
 
-As you navigate this role, reflect on the following:
-
-1. Is my vision for the team clear and compelling?
-2. Does every team member grasp our top priorities?
-3. Can I contribute meaningfully to our codebase?
-4. Do I lead by example?
-5. Can I dive deep on the product, system architecture and code base?
-6. Could I answer a support question?
-7. Do I understand our monitors and metrics?
-8. Can I communicate bad news?
-9. Can I speak on behalf of my team?
-10. Am I pressure testing my team's decisions?
-
 ## Should I be technical?
 
-Effective engineering managers ought to possess a strong technical background, having firsthand experience with the challenges their teams encounter. I advise individuals to consider transitioning into management only after reaching at least a senior engineer level. It's essential to bear the battle scars of technical endeavors.
+Effective engineering managers ought to possess a strong technical background, having firsthand experience with the challenges their teams encounter. I advise individuals to consider transitioning into management only after reaching at least a senior engineer level and ideally have at least 10 years of technical individual contributor experience. It's essential to bear the battle scars of technical endeavors.
 
 Such managers should comprehend the technical intricacies of a project and even be capable of contributing to it. They must be adept at making technical decisions and articulate the reasoning behind them. However, this doesn't imply they should be actively coding on the critical path or making all the decisions.
 
@@ -149,9 +134,10 @@ There is no one right way to manage projects. It depends on the team's size, the
 
 1. Break down projects into small chunks that can be completed in a week or two.
 2. Prioritize projects that have the highest impact and are the most urgent.
-3. Assign a single owner to each project. This person is responsible for driving the project forward and communicating progress. Have the create a tech spec and work backwards on the due date.
+3. Minimize parallelization. It's better to have one project completed than two half done.
+4. Assign a single owner to each project. This person is responsible for driving the project forward and communicating progress. Have the create a tech spec and work backwards on the due date.
 
-A great book on project execution is [How Big Things Get Done](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512).
+For an amazing book on project execution check out [How Big Things Get Done](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512).
 
 ## Feedback
 
@@ -191,6 +177,8 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
     - "My initial reaction to your proposal is..."
     - "Here's what I would do" is better than "Here's what you should do"
     - "When you did X, I felt Y"
+
+For further reading, see [The rise of feedback: Why feedback skills have become urgent](https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent) and [Want to get better feedback? Ask a better question. Here’s how.](https://medium.com/lifelabs-learning/want-to-get-better-feedback-ask-a-better-question-heres-how-64d679a598a).
 
 ## Thinking strategically
 
@@ -233,7 +221,7 @@ Ideally you also have metrics to define the success of that decision.
     - "We're tracking X now, let's revisit next quarter if it improves with these changes."
 1. If someone disagrees with an irreversible decision, give them the opportunity to present their case.
 Regardless, everyone should be aware the decision is ultimately yours and the team needs
-to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made.
+to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made. In my experience, event dissenters will commit to the decision if they feel heard and appreciate you were decisive.
 1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
 
 ## Ticket and PR process
@@ -359,49 +347,49 @@ Onboarding material:
 
 ## Standups
 
-I like to organize standups in the following format:
+I like to organize standups where on-call engineers lead during Monday, Wednesday and Friday. This gives them a chance to practice public speaking. On Thursdays, I lead the standup and talk about priorities and strategy.
 
 #### Monday
 
-1. Before Meeting (on-call): Make a list of notable alerts from the items below
+1. Before Meeting (on-call): Make a list of notable alerts from on-call.
 2. Weekend highlights (popcorn style)
-3. Review notable monitoring info from above
+3. Review notable monitoring info.
 4. Review on-call tickets.
-5. Deploys: Any major/risky deployments the team should be aware of
-6. Priorities: What epics are people working on this week
+5. Call out any major/risky deployments planned for the week
+6. Priorities: What epics are people working on this week?
 7. Review ticket board
 
 #### Wednesday
 
 1. Review PR Backlog and GitHub dependabot issues
-2. Review in progress tickets
+2. Review ticket board
 
 #### Thursday
+
+The Engineering Manager or Product manager leads the standup to discuss priorities and strategy. This is a good time to discuss any changes to the roadmap. The goal is to make sure everyone is on the same page and aligned.
+
+1. Review priorities for next couple of weeks.
+2. Review roadmap and any changes.
+3. Discuss feedback from customers or sales.
+4. Share any interesting metrics.
 
 #### Friday
 
 1. Small popcorn retro where everyone talks about highlights and lowlights. What went well? What didn't go well?Could we do anything to make this better (If so, add tickets!)?
-
-## Becoming a Director/VP
-
-1. [What does a VP of Engineering do?](https://www.kennorton.com/essays/vp-engineering.html)
+2. Demo any new features or improvements.
+3. Review ticket board.
 
 ## Further reading
+
+Here are some great resources on management:
 
 1. [Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897/): Excellent guide for all levels of management.
 1. [97 Things Every Engineering Manager Should Know](https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS): Collection of management tips from various practitioners.
 1. [5 questions every Engineering Manager should be asking themselves](https://www.getclockwise.com/blog/5-questions-every-engineering-manager-should-be-asking-themselves)
 1. [The Pendulum or the Ladder](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/): On the challenges of being a manager who wants to stay technical.
-1. [Hard Thing About Hard Things](https://www.amazon.com/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA): More at the executive-level side but still a worthwhile.
 1. [What You Do Is Who You Are](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331): Why company culture matters and how to establish one.
-1. [Engineering Management Repo](https://github.com/charlax/engineering-management): Great collection of management articles.
-1. [Hiring Engineering Leaders](https://medium.com/@radoshi/hiring-engineering-leaders-ca55a87db204): Hiring engineering leaders.
 1. [How to Hire Smarter than the Market](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html): Berkson's paradox and engineering hiring.
 1. [LifeLabs Learning](https://lifelabslearning.com). Great workshop for new and experienced managers. I learned a lot from it on feedback, coaching and 1-1s.
 1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask when interviewing managers.
-1. [Getting more from your one on ones](https://medium.com/@sbourke/getting-more-from-your-1-1s-8f71996e286e): How to measure successful one on ones.
 1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
 1. [Toxic Meeting Culture](https://erikbern.com/2017/12/29/toxic-meeting-culture.html): How to avoid meeting antipatterns.
-1. [The rise of feedback: Why feedback skills have become urgent](https://ideas.lifelabslearning.com/the-rise-of-feedback-why-feedback-skills-have-become-urgent)
-1. [Want to get better feedback? Ask a better question. Here’s how.
-](https://medium.com/lifelabs-learning/want-to-get-better-feedback-ask-a-better-question-heres-how-64d679a598a)
