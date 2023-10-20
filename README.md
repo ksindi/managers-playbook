@@ -114,7 +114,7 @@ Every team should possess six key attributes:
 
 Lacking these pillars, teams risk being less effective and may experience diminished motivation.
 
-For further reading check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819).
+For further reading, check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819).
 
 ## Coaching
 
@@ -295,7 +295,7 @@ Questions to ask yourself about the candidate:
 
 ### References
 
-You should never skip doing reference calls. They can tell you a lot about the candidate. Here are some tips: <https://gist.github.com/ksindi/bbade71640bb62c4547348c3bb355739>.
+You should take the opportunity to do reference calls. They can tell you a lot about the candidate. Here are some tips: <https://gist.github.com/ksindi/bbade71640bb62c4547348c3bb355739>.
 
 ## Onboarding
 
