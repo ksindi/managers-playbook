@@ -64,7 +64,7 @@ If you have more than 5 direct reports, you should generally avoid coding in the
 
 ## One-on-ones
 
-Never skip one-on-ones. They serve as an essential mechanism for both receiving and offering feedback, as well as fostering a connection with your team member. Most engineers cherish these sessions, and if they don't, it's often because they haven't experienced a well-conducted one-on-one.
+Never skip one-on-ones. They serve as an essential mechanism for coaching and providing feedback, as well as fostering a connection with your team member. Most engineers cherish these sessions, and if they don't, it's often because they haven't experienced a well-conducted one-on-one.
 
 Do note that these recommendations primarily pertain to one-on-ones with individual contributors. One-on-ones with managers typically lean more towards "business" matters, emphasizing strategy, team well-being, and project planning.
 
