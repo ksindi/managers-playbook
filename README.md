@@ -223,7 +223,7 @@ Ideally you also have metrics to define the success of that decision.
     - "We're tracking X now, let's revisit next quarter if it improves with these changes."
 1. If someone disagrees with an irreversible decision, give them the opportunity to present their case.
 Regardless, everyone should be aware the decision is ultimately yours and the team needs
-to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made. In my experience, event dissenters will commit to the decision if they feel heard and appreciate you were decisive.
+to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made. In my experience, even dissenters will commit to the decision if they feel heard and appreciate you were decisive.
 1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
 
 ## Ticket and PR process
