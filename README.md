@@ -64,13 +64,13 @@ If you have more than 5 direct reports, you should generally avoid coding in the
 
 ## One-on-ones
 
-Never bypass one-on-ones. They serve as an essential mechanism for both receiving and offering feedback, as well as fostering a connection with your team member. Many team members cherish these sessions, and if they don't, it's often because they haven't experienced a well-conducted one-on-one.
+Never skip one-on-ones. They serve as an essential mechanism for both receiving and offering feedback, as well as fostering a connection with your team member. Most engineers cherish these sessions, and if they don't, it's often because they haven't experienced a well-conducted one-on-one.
 
 Do note that these recommendations primarily pertain to one-on-ones with individual contributors. One-on-ones with managers typically lean more towards "business" matters, emphasizing strategy, team well-being, and project planning.
 
 Some general tips:
 
-1. Aim for bi-weekly one-on-ones but offer to adjust cadence based on your teammate's preference.
+1. Aim for 30min bi-weekly one-on-ones but offer to adjust cadence based on your teammate's preference.
 1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
 1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normally if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
