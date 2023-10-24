@@ -193,7 +193,6 @@ Questions you should be asking yourself?
 1. What are your product's mission and tenets?
 1. What is your team's morale? Have you asked them what's not fun about working here?
 1. What are the company's top priorities this year? Where should the company be three years from now?
-1. What are your "rocks" and "pebble" projects this quarter?
 1. What company annual goals is your team driving and in what way?
 1. If you were to get promoted, who from your team would take your place? What skills or experience does this person need to acquire?
 1. What are your team's pain points? How can you move 2x faster?
@@ -251,11 +250,12 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 Hiring is the most important decision a manager makes. It's also the most difficult. It's a skill that can be learned and improved upon.
 
-What to look for in senior engineers:
+What to look for in engineers:
 
 1. **Owner**. Takes ownership of a problem even when it's not 100% their responsibility; understands the why.
     1. "Tell me about a time when you took on something significant outside of your area of responsibility. Why was it important? What was the outcome?"
     1. "Tell me about a time when you made a hard decision to sacrifice short term gain for a longer term goal."
+    1. "What's a major tradeoff that you had to make, and how did you make it?"
 1. **Handles ambiguity**
     1. "Can you tell me about a time when you had to solve an ambitious problem? Why was the problem important?"
     1. "Can you tell me about a time when you had to make a decision without complete information? What was the situation? What risks did you take? Why did you make the decision you made?"
@@ -273,6 +273,7 @@ What to look for in senior engineers:
     1. "Tell me of a time where you helped someone in your team grow."
 1. **Deep diver**. Digs a level deeper to understand what's happening under the hood.
     1. "Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out."
+    1. If you had two weeks, heads down, to learn something new, what's at the top of your list?
 1. **Simplifier**. Simplifies problems instead of just hacks at things and adds tech debt. Does the person have a build vs. buy mentality.
     1. "Tell me a about a complex problem that you solved with a simple solution."
 1. **Missionary**. Interested in company's mission or technology.
