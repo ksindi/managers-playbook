@@ -184,20 +184,19 @@ For further reading, see [The rise of feedback: Why feedback skills have become 
 
 ## Thinking strategically
 
-No matter what level you are in the organization, you should be thinking strategically. This means understanding the big picture and how your team's work fits into it.
+No matter what level you are in the organization, you should be thinking strategically and in the context of your team solving business problems. This means understanding the big picture and how your team's work fits into it.
 
-Questions you should be asking yourself?
+Questions you should be asking yourself:
 
-1. What would you do with one more person?
 1. How is your team moving the needle? Are you focusing on the right things?
 1. What are your product's mission and tenets?
-1. What is your team's morale? Have you asked them what's not fun about working here?
 1. What are the company's top priorities this year? Where should the company be three years from now?
+1. Does solving this pieve of tech debt help accomplish business goals?
 1. What company annual goals is your team driving and in what way?
-1. If you were to get promoted, who from your team would take your place? What skills or experience does this person need to acquire?
 1. What are your team's pain points? How can you move 2x faster?
-1. How well can your team operate without you?
 1. If the company failed, what would be most likely reason?
+1. What would you do with one more person?
+
 
 Great books on strategy:
 
