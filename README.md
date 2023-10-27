@@ -38,8 +38,6 @@ Heuristics for effective management.
 
 This is a collection of heuristics I've learned from my own experience and from other managers. It's meant to be a living document. I try to keep it short and to the point.
 
-Management is a set skills that can be learned and improved upon. It's not a natural talent that some people are born with. It's not a personality trait. It's not a title.
-
 This is mostly advice for people starting their career as a manager. It's also useful for experienced managers who want to improve their skills.
 
 ## What makes a great engineering manager?
