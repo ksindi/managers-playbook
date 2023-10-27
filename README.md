@@ -103,7 +103,7 @@ For further reading, see [Getting more from your one on ones](https://medium.com
 
 ## Effective teams
 
-It's your job as a manager to make sure your team is as effective as possible. To that end, every high performaing team should possess six key attributes:
+It's your job as a manager to make sure your team is running as effectively as possible. To that end, every high performing team should possess six key attributes:
 
 1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team.
 2. **Mastery of Domain**: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
