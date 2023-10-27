@@ -353,35 +353,35 @@ Onboarding material:
 
 ## Standups
 
-I like to organize standups where on-call engineers lead during Monday, Wednesday and Friday. This gives them a chance to practice public speaking. On Thursdays, I lead the standup and talk about priorities and strategy.
+I like to organize standups where on-call engineers lead during Monday, Wednesday and Friday. This gives them a chance to practice public speaking. On Thursdays, the Engineering Manager (EM) or Product Manger (PM) lead the standup and talk about priorities and strategy.
 
-#### Monday
+#### Monday (on-call leads)
 
 1. Before Meeting (on-call): Make a list of notable alerts from on-call.
 2. Weekend highlights (popcorn style)
 3. Review notable monitoring info.
 4. Review on-call tickets.
-5. Call out any major/risky deployments planned for the week
+5. Call out any major/risky deployments planned for the week.
 6. Priorities: What epics are people working on this week?
 7. Review ticket board
 
-#### Wednesday
+#### Wednesday (on-call leads)
 
 1. Review PR Backlog and GitHub dependabot issues
 2. Review ticket board
 
-#### Thursday
+#### Thursday (EM or PM leads)
 
-The Engineering Manager or Product manager leads the standup to discuss priorities and strategy. This is a good time to discuss any changes to the roadmap. The goal is to make sure everyone is on the same page and aligned.
+The Engineering Manager or Product Manager leads the standup to discuss priorities and strategy. This is a good time to discuss any changes to the roadmap. The goal is to make sure everyone is on the same page and aligned.
 
 1. Review priorities for next couple of weeks.
 2. Review roadmap and any changes.
 3. Discuss feedback from customers or sales.
 4. Share any interesting metrics.
 
-#### Friday
+#### Friday (on-call leads)
 
-1. Small popcorn retro where everyone talks about highlights and lowlights. What went well? What didn't go well?Could we do anything to make this better (If so, add tickets!)?
+1. Small popcorn retro where everyone talks about highlights and lowlights. What went well? What didn't go well? Could we do anything to make this better (If so, add tickets!)?
 2. Demo any new features or improvements.
 3. Review ticket board.
 
