@@ -105,12 +105,12 @@ For further reading, see [Getting more from your one on ones](https://medium.com
 
 ## Effective teams
 
-Every team should possess six key attributes:
+It's your job as a manager to make sure your team is as effective as possible. To that end, every high performaing team should possess six key attributes:
 
 1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team.
 2. **Mastery of Domain**: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
 3. **Purpose**: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks.
-4. **Clarity**: Ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work. Try to swarm where possible.
+4. **Clarity**: Ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work. Swarm where possible.
 5. **Urgency**: The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
 6. **Efficiency**: Teams should be able to operate with minimal overhead. This is accomplished by having great developer tooling and a clear processes (e.g. testing, change management, etc.).
 
