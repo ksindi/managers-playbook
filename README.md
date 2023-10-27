@@ -1,8 +1,9 @@
 [who-is-this-for]: #who-is-this-for
 [what-makes-a-great-manager]: #what-makes-a-great-engineering-manager
+[how-technical-should-i-be]: #how-technical-should-i-be
 [one-on-ones]: #one-on-ones
 [coaching]: #coaching
-[feedback]: #feedback
+[giving-feedback]: #giving-feedback
 [thinking-strategically]: #thinking-strategically
 [making-decisions]: #making-decisions
 [ticket-and-pr-process]: #ticket-and-pr-process
@@ -20,9 +21,10 @@ Heuristics for effective management.
 
 1. [Who is this for?][who-is-this-for]
 1. [What makes a great engineering manager?][what-makes-a-great-manager]
+1. [How technical should I be?][how-technical-should-i-be]
 1. [One-on-ones][one-on-ones]
 1. [Coaching][coaching]
-1. [Feedback][feedback]
+1. [Giving Feedback][giving-feedback]
 1. [Thinking strategically][thinking-strategically]
 1. [Making decisions][making-decisions]
 1. [Ticket and PR process][ticket-and-pr-process]
@@ -46,7 +48,7 @@ Your job first and foremost is to execute. As a manager, you are a leader who ha
 
 An outstanding engineering manager continuously elevates the team's standards, quickens the pace, sharpens focus, and instills a sense of purpose. Each week, you should see a team that has progressed beyond its previous week's performance. You amplify the collective potential, making the whole team greater than the sum of its parts. While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
 
-## Should I be technical?
+## How technical should I be?
 
 Effective engineering managers ought to possess a strong technical background, having firsthand experience with the challenges their teams encounter. I advise individuals to consider transitioning into management only after reaching at least a senior engineer level and ideally have at least 10 years of technical individual contributor experience. It's essential to bear the battle scars of technical endeavors.
 
@@ -141,7 +143,7 @@ There is no one right way to manage projects. It depends on the team's size, the
 
 For an amazing book on project execution check out [How Big Things Get Done](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512).
 
-## Feedback
+## Giving feedback
 
 Giving great feedback to reports/managers/peers is one of the most impactful things you can do to drive alignment and build trust.
 
@@ -286,6 +288,7 @@ What to watch out for:
 1. **Menu of technologies**. Resumes that just list technologies used instead of problems solved may indicate person may not be thinking big picture. Also a typical trait of junior engineers.
 1. **Lack of curiosity**. Does the person ask questions about the company, product or team?
 1. **No career progression**. Does the person have a clear career progression? If not, why?
+1. **Role description**. Is this person just describing their job or are they sharing the actual impact they had at the company?
 1. **Lack of quantifiable metrics**. Does the person have metrics to show the impact of their work?
 
 Questions to ask yourself about the candidate:
