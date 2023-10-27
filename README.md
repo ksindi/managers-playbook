@@ -394,6 +394,6 @@ Here are some great resources on management:
 1. [What You Do Is Who You Are](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331): Why company culture matters and how to establish one.
 1. [How to Hire Smarter than the Market](https://erikbern.com/2020/01/13/how-to-hire-smarter-than-the-market-a-toy-model.html): Berkson's paradox and engineering hiring.
 1. [LifeLabs Learning](https://lifelabslearning.com). Great workshop for new and experienced managers. I learned a lot from it on feedback, coaching and 1-1s.
-1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask when interviewing managers.
+1. [How Software Engineers Can Help Interview Their Future Managers](https://blog.newrelic.com/technology/hiring-software-engineering-managers-interview): A list of questions for engineers to ask managers.
 1. [7 Tips for Better Executive Communication](https://medium.com/@joefletcher/7-tips-for-better-communication-32cbe84c8ddf): Tips on how to communicate effectively.
 1. [Toxic Meeting Culture](https://erikbern.com/2017/12/29/toxic-meeting-culture.html): How to avoid meeting antipatterns.
