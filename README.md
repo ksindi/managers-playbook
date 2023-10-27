@@ -44,7 +44,7 @@ This is mostly advice for people starting their career as a manager. It's also u
 
 Your job first and foremost is to execute. As a manager, you are a leader who harnesses your team's skills to achieve specific goals. To accomplish this, you need to be an adept coach, communicator, and decision-maker. However, these roles are merely means to an end.
 
-An outstanding engineering manager continuously elevates the team's standards, quickens the pace, sharpens focus, and instills a sense of purpose. Each week, you should see a team that has progressed beyond its previous week's performance. You amplify the collective potential, making the whole team greater than the sum of its parts. While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
+An exceptional engineering manager elevates the team's standards by fostering a culture of continuous improvement and innovation. Every week should mark a new milestone, with the team surpassing its previous achievements in efficiency, creativity, and problem-solving. You don’t just manage; you lead by example, inspiring a sharper focus and a profound sense of purpose. The progress is tangible and energizing. While staff engineers act as force multipliers through technology, you serve as a multiplier through people.
 
 ## How technical should I be?
 
