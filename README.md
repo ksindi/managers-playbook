@@ -52,7 +52,7 @@ Effective engineering managers ought to possess a strong technical background, h
 
 Such managers should comprehend the technical intricacies of a project and even be capable of contributing to it. They must be adept at making technical decisions and articulate the reasoning behind them. However, this doesn't imply they should be actively coding on the critical path or making all the decisions.
 
-If you have more than 8 direct reports*, you should generally avoid coding in the critical path to ensure you're not blocking the team on critical features or incidents. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from Charity Majors:
+If you have more than 7 direct reports*, you should generally avoid coding in the critical path to ensure you're not blocking the team on critical features or incidents. [Tips](https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/) from Charity Majors:
 
 1. Authoring a feature?  ⛔️
 2. Covering on-call when someone needs a break?  ✅
