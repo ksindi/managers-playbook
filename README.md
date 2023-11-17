@@ -105,18 +105,15 @@ For further reading, see [Getting more from your one on ones](https://medium.com
 
 ## Effective teams
 
-It's your job as a manager to make sure your team is running as effectively as possible. To that end, every high performing team should possess six key attributes:
+It's your job as a manager to make sure your team is running as effectively as possible. To that end, every high performing team should possess three key attributes:
 
-1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team.
+1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team. Moreover, teams should be able to operate with minimal overhead. This is accomplished by having great developer tooling and a clear processes (e.g. testing, change management, etc.).
 2. **Mastery of Domain**: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
-3. **Purpose**: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks.
-4. **Clarity**: Ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work. Swarm where possible.
-5. **Urgency**: The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
-6. **Efficiency**: Teams should be able to operate with minimal overhead. This is accomplished by having great developer tooling and a clear processes (e.g. testing, change management, etc.).
+3. **Purpose**: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks. In addition, ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work. Swarm where possible so that everyone feels like they're driving towards a common goal and there is knowledge sharing. Finally, The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
 
-Lacking these pillars, teams risk being less effective and may experience diminished motivation.
+Lacking these pillars (credit to Dan Pink), teams risk being less effective and may experience diminished motivation.
 
-For further reading, check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819) and https://mythulu.medium.com/3-missing-elements-in-dan-pinks-motivation-theory-5f98c7b4d021.
+For further reading, check out [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819), which goes deeper into team organization theory.
 
 ## Coaching
 
