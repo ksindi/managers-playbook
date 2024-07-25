@@ -73,7 +73,7 @@ Do note that these recommendations primarily pertain to one-on-ones with individ
 Some general tips:
 
 1. Aim for 30min bi-weekly one-on-ones but offer to adjust cadence based on your teammate's preference.
-1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
+1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and track action items. But it's also important to know when to go off script. Not all reports will value this.
 1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normally if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
@@ -105,9 +105,9 @@ For further reading, see [Getting more from your one on ones](https://medium.com
 
 ## Effective teams
 
-It's your job as a manager to make sure your team is running as effectively as possible. To that end, every high performing team should possess three key attributes:
+It's your job as a manager to make sure your team is running as effectively as possible. To that end, every high-performing team should possess three key attributes:
 
-1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team. Moreover, teams should be able to operate with minimal overhead. This is accomplished by having great developer tooling and a clear processes (e.g. testing, change management, etc.).
+1. **Autonomy**: Teams should operate in a manner where their work streams are independent of other teams. This allows them to make decisions without requiring approvals from outside their team. Moreover, teams should be able to operate with minimal overhead. This is accomplished by having great developer tooling and clear processes (e.g. testing, change management, etc.).
 2. **Mastery of Domain**: Teams should be experts in their specific domain. This encompasses a deep knowledge of the product, the code base, and the business landscape.
 3. **Purpose**: Teams need to comprehend the larger picture and discern how their contributions align with it. This understanding lends clarity to the 'why' behind their tasks. In addition, ruthlessly prioritize your projects and make sure your team isn't fragmented across too many initiatives. This allows them to focus on the most important work. Swarm where possible so that everyone feels like they're driving towards a common goal and there is knowledge sharing. Finally, The best engineers want to be challenged and to work on projects that matter. Teams should be tackling problems that are both important and urgent.
 
@@ -134,9 +134,9 @@ Coaching is the most important skill a manager can have. It's the best way to he
 There is no one right way to manage projects. It depends on the team's size, the type of project, and the team's maturity. Here are some general tips:
 
 1. Break down projects into small chunks that can be completed in a week or two.
-2. Prioritize projects that have the highest impact and are the most urgent.
-3. Minimize parallelization. It's better to have one project completed than two half done.
-4. Assign a single owner to each project. This person is responsible for driving the project forward and communicating progress. Have the create a tech spec and work backwards on the due date.
+1. Prioritize projects that have the highest impact and are the most urgent.
+1. Minimize parallelization. It's better to have one project completed than two half-done.
+1. Assign a single owner to each project. This person is responsible for driving the project forward and communicating progress. Have them create a tech spec and work backwards on the due date.
 
 For an amazing book on project execution check out [How Big Things Get Done](https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512).
 
@@ -144,7 +144,7 @@ For an amazing book on project execution check out [How Big Things Get Done](htt
 
 Giving great feedback to reports/managers/peers is one of the most impactful things you can do to drive alignment and build trust.
 
-1. Be prompt, ideally providing feedback the same day of the event that prompted it. Wiating too long makes it seem like you're holding a grudge and they might not remember details after a couple of days.
+1. Be prompt, ideally providing feedback the same day of the event that prompted it. Waiting too long makes it seem like you're holding a grudge, and they might not remember details after a couple of days.
 1. Get buy-in about providing feedback and reduce mystery by giving context:
     - "Do you have 10 minutes?"  ⛔️
     - "Do you have 10 minutes to talk about this morning's stand up?"
@@ -155,7 +155,7 @@ Giving great feedback to reports/managers/peers is one of the most impactful thi
     - "I like the initiative you took to reduce the service's memory footprint. It encourages me to give you more ownership so that I can focus elsewhere."
 1. Avoid praising for doing their job. You want to make sure it's sincere and not just a way to avoid giving negative feedback.
     - "Thanks for fixing that bug"  ⛔️
-    - "Thanks for fixing that bug. It was critical to the customer and you got it done quickly."
+    - "Thanks for fixing that bug. It was critical to the customer, and you got it done quickly."
 1. Focus on data and not behavior:
     - "I noticed you didn't address any of the comments made in your last three PRs"
     - "I noticed that you didn't pick up the ticket I asked you to do"
@@ -183,45 +183,39 @@ For further reading, see [The rise of feedback: Why feedback skills have become 
 
 ## Thinking strategically
 
-No matter what level you are in the organization, you should be thinking strategically and in the context of your team solving business problems. This means understanding the big picture and how your team's work fits into it.
+No matter what level you are in the organization, you should be thinking strategically and in the context of your team when solving business problems. This means understanding the big picture and how your team's work fits into it.
 
 Questions you should be asking yourself:
 
 1. How is your team moving the needle? Are you focusing on the right things?
 1. What are your product's mission and tenets?
 1. What are the company's top priorities this year? Where should the company be three years from now?
-1. Does solving this pieve of tech debt help accomplish business goals?
+1. Does solving this piece of tech debt help accomplish business goals?
 1. What company annual goals is your team driving and in what way?
 1. What are your team's pain points? How can you move 2x faster?
 1. If the company failed, what would be most likely reason?
 1. What would you do with one more person?
 
-
 Great books on strategy:
 
 1. [Good Strategy/Bad Strategy](https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239)
-2. [Innovator's Solution](https://www.amazon.com/Innovators-Solution-Sustaining-Successful-Christensen/dp/B00N1PDLAM)
-3. [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
+1. [Innovator's Solution](https://www.amazon.com/Innovators-Solution-Sustaining-Successful-Christensen/dp/B00N1PDLAM)
+1. [Crossing the Chasm](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986)
 
 ## Making decisions
 
 1. Determine if the decision is [reversible vs. irreversible](https://fs.blog/2018/04/reversible-irreversible-decisions/).
     - Reversible decisions can easily be changed. Examples: changing stand up time, contributing guidelines.
-    - Irreversible decisions cannot be changed without significant rework. These decisions should take
-  longer and be documented and discussed. Examples: architecture changes, hiring, org changes, data models.
+    - Irreversible decisions cannot be changed without significant rework. These decisions should take longer and be documented and discussed. Examples: architecture changes, hiring, org changes, data models.
     - A rubric on technology decisions by [Sam Newman](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848):
     <img src="images/tech-decisions.jpg" width="400">
-1. Whenever there is disagreement, focus on the intended outcome of the decision and make sure the team
-is aware of your reasoning.
+1. Whenever there is disagreement, focus on the intended outcome of the decision, and make sure the team is aware of your reasoning.
     - "While database X is better, I want us to standardize on one stack so that it's easier to maintain."
-1. If someone disagrees with a reversible decision, set a date to revisit that decision with the team.
-Ideally you also have metrics to define the success of that decision.
+1. If someone disagrees with a reversible decision, set a date to revisit that decision with the team. Ideally you also have metrics to define the success of that decision.
     - "I understand your concerns. Let's revisit this in a month and see where we stand."
     - "We're tracking X now, let's revisit next quarter if it improves with these changes."
-1. If someone disagrees with an irreversible decision, give them the opportunity to present their case.
-Regardless, everyone should be aware the decision is ultimately yours and the team needs
-to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made. In my experience, even dissenters will commit to the decision if they feel heard and appreciate you were decisive.
-1. Document your decisions so that you can refer to why they were made and the tradeoffs your team faced.
+1. If someone disagrees with an irreversible decision, give them the opportunity to present their case. Regardless, everyone should be aware the decision is ultimately yours and the team needs to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to the decision made. In my experience, even dissenters will commit to the decision if they feel heard and appreciate you were decisive.
+1. Document your decisions so that you can refer to why they were made and the trade-offs your team faced.
 
 ## Ticket and PR process
 
@@ -234,11 +228,11 @@ to [disagree and commit wholly](https://tomtunguz.com/disagree-and-commit/) to t
 
 1. Avoid [shitty brainstorm sessions](https://erikbern.com/2017/12/29/toxic-meeting-culture.html) by encouraging proposals written before having a meeting. Whoever wants the meeting should write the proposal.
     > "Don’t defer decisions to meetings. Make decisions on the spot, communicate it over long-form writing, and use the meeting to discuss it." – Erik Bernhardsson
-1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and tradeoffs. I find it very helpul to create tech spec templates.
+1. Favor long-form writing for proposals over presentations. Writing forces the author to think about the details and trade-offs. I find it very helpul to create tech spec templates.
 1. Dedicate time during meetings for reading and discussing proposals. This ensures everyone is on the same page and avoids the "I didn't have time to read it" excuse. It will also make sure it's the latest thing in everyone's memory buffer.
 1. Avoid recurring meetings with no agenda. If you're invited to one, ask for an agenda.
 1. Encourage Amazon-style ["6 pagers" and "2 pagers"](https://medium.com/@inowland/using-6-page-and-2-page-documents-to-make-organizational-decisions-3216badde909).
-1. Always end a meeting with actions, owners and timing, so it's clear what next steps are.
+1. Always end a meeting with actions, owners, and timing, so it's clear what next steps are.
 
 <img src="images/write-like-an-amazonian.jpg" width="400">
 
@@ -253,7 +247,7 @@ What to look for in engineers:
 1. **Owner**. Takes ownership of a problem even when it's not 100% their responsibility; understands the why.
     1. "Tell me about a time when you took on something significant outside of your area of responsibility. Why was it important? What was the outcome?"
     1. "Tell me about a time when you made a hard decision to sacrifice short term gain for a longer term goal."
-    1. "What's a major tradeoff that you had to make, and how did you make it?"
+    1. "What's a major trade-off that you had to make, and how did you make it?"
 1. **Handles ambiguity**
     1. "Can you tell me about a time when you had to solve an ambitious problem? Why was the problem important?"
     1. "Can you tell me about a time when you had to make a decision without complete information? What was the situation? What risks did you take? Why did you make the decision you made?"
@@ -272,8 +266,8 @@ What to look for in engineers:
 1. **Deep diver**. Digs a level deeper to understand what's happening under the hood.
     1. "Tell me about a time you were trying to understand a problem on your team and you had to go down several layers to figure it out."
     1. If you had two weeks, heads down, to learn something new, what's at the top of your list?
-1. **Simplifier**. Simplifies problems instead of just hacks at things and adds tech debt. Does the person have a build vs. buy mentality.
-    1. "Tell me a about a complex problem that you solved with a simple solution."
+1. **Simplifier**. Simplifies problems instead of just hacks at things and adds tech debt. Does the person have a build vs. buy mentality?
+    1. "Tell me about a complex problem that you solved with a simple solution."
 1. **Missionary**. Interested in company's mission or technology.
     1. "Explain to me what your current company does and why it's important."
     1. "What interests you working at [COMPANY]?"
@@ -283,7 +277,7 @@ What to watch out for:
 1. **Short tenure at companies**. If a candidate typically stays at companies for less than a year, ask them why. There might be perfectly valid reasons or it might indicate a pattern that the person is difficult to work with.
     1. Why did you only work at X for less than 1 year?
 1. **Menu of technologies**. Resumes that just list technologies used instead of problems solved may indicate person may not be thinking big picture. Also a typical trait of junior engineers.
-1. **Lack of curiosity**. Does the person ask questions about the company, product or team?
+1. **Lack of curiosity**. Does the person ask questions about the company, product, or team?
 1. **No career progression**. Does the person have a clear career progression? If not, why?
 1. **Role description**. Is this person just describing their job or are they sharing the actual impact they had at the company?
 1. **Lack of quantifiable metrics**. Does the person have metrics to show the impact of their work?
@@ -321,7 +315,7 @@ Onboarding material:
     1. Ticketing process
     1. Glossary of terms
     1. Releasing code
-    1. How tos (e.g. migrate database, add secrets)
+    1. How-tos (e.g. migrate database, add secrets)
 1. Getting started
     1. Installation instructions (e.g. Docker, postgres).
     1. A checklist of all accesses expected (e.g. AWS, PagerDuty)
@@ -350,37 +344,37 @@ Onboarding material:
 
 ## Standups
 
-I like to organize standups where on-call engineers lead during Monday, Wednesday and Friday. This gives them a chance to practice public speaking. On Thursdays, the Engineering Manager (EM) or Product Manger (PM) lead the standup and talk about priorities and strategy.
+I like to organize standups where on-call engineers lead during Monday, Wednesday, and Friday. This gives them a chance to practice public speaking. On Thursdays, the Engineering Manager (EM) or Product Manger (PM) lead the standup and talk about priorities and strategy.
 
 #### Monday (on-call leads)
 
 1. Before Meeting (on-call): Make a list of notable alerts from on-call.
-2. Weekend highlights (popcorn style)
-3. Review notable monitoring info.
-4. Review on-call tickets.
-5. Call out any major/risky deployments planned for the week.
-6. Priorities: What epics are people working on this week?
-7. Review ticket board
+1. Weekend highlights (popcorn style).
+1. Review notable monitoring info.
+1. Review on-call tickets.
+1. Call out any major/risky deployments planned for the week.
+1. Priorities: What epics are people working on this week?
+1. Review ticket board.
 
 #### Wednesday (on-call leads)
 
-1. Review PR Backlog and GitHub dependabot issues
-2. Review ticket board
+1. Review PR Backlog and GitHub dependabot issues.
+1. Review ticket board.
 
 #### Thursday (EM or PM leads)
 
 The Engineering Manager or Product Manager leads the standup to discuss priorities and strategy. This is a good time to discuss any changes to the roadmap. The goal is to make sure everyone is on the same page and aligned.
 
 1. Review priorities for next couple of weeks.
-2. Review roadmap and any changes.
-3. Discuss feedback from customers or sales.
-4. Share any interesting metrics.
+1. Review roadmap and any changes.
+1. Discuss feedback from customers or sales.
+1. Share any interesting metrics.
 
 #### Friday (on-call leads)
 
 1. Small popcorn retro where everyone talks about highlights and lowlights. What went well? What didn't go well? Could we do anything to make this better (If so, add tickets!)?
-2. Demo any new features or improvements.
-3. Review ticket board.
+1. Demo any new features or improvements.
+1. Review ticket board.
 
 ## Further reading
 
