@@ -73,7 +73,7 @@ Do note that these recommendations primarily pertain to one-on-ones with individ
 Some general tips:
 
 1. Aim for 30min bi-weekly one-on-ones but offer to adjust cadence based on your teammate's preference.
-1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and track action tiems. But it's also important to know when to go off script. Not all reports will value this.
+1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and track action items. But it's also important to know when to go off script. Not all reports will value this.
 1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normally if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
