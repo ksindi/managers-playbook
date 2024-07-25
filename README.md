@@ -209,8 +209,7 @@ Great books on strategy:
     - Irreversible decisions cannot be changed without significant rework. These decisions should take longer and be documented and discussed. Examples: architecture changes, hiring, org changes, data models.
     - A rubric on technology decisions by [Sam Newman](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848):
     <img src="images/tech-decisions.jpg" width="400">
-1. Whenever there is disagreement, focus on the intended outcome of the decision, and make sure the team
-is aware of your reasoning.
+1. Whenever there is disagreement, focus on the intended outcome of the decision, and make sure the team is aware of your reasoning.
     - "While database X is better, I want us to standardize on one stack so that it's easier to maintain."
 1. If someone disagrees with a reversible decision, set a date to revisit that decision with the team. Ideally you also have metrics to define the success of that decision.
     - "I understand your concerns. Let's revisit this in a month and see where we stand."
