@@ -19,20 +19,31 @@ Heuristics for effective management.
 
 ## Table of Contents
 
-1. [Who is this for?][who-is-this-for]
-1. [What makes a great engineering manager?][what-makes-a-great-manager]
-1. [How technical should I be?][how-technical-should-i-be]
-1. [One-on-ones][one-on-ones]
-1. [Coaching][coaching]
-1. [Giving Feedback][giving-feedback]
-1. [Thinking strategically][thinking-strategically]
-1. [Making decisions][making-decisions]
-1. [Ticket and PR process][ticket-and-pr-process]
-1. [Hiring][hiring]
-1. [Onboarding][onboarding]
-1. [Managing up][managing-up]
-1. [Announcing change][announcing-change]
-1. [Further reading][further-reading]
+- [Manager's Playbook](#managers-playbook)
+  - [Table of Contents](#table-of-contents)
+  - [Who is this for?](#who-is-this-for)
+  - [What makes a great engineering manager?](#what-makes-a-great-engineering-manager)
+  - [How technical should I be?](#how-technical-should-i-be)
+  - [One-on-ones](#one-on-ones)
+  - [Effective teams](#effective-teams)
+  - [Coaching](#coaching)
+  - [Project management](#project-management)
+  - [Giving feedback](#giving-feedback)
+  - [Thinking strategically](#thinking-strategically)
+  - [Making decisions](#making-decisions)
+  - [Ticket and PR process](#ticket-and-pr-process)
+  - [Meeting](#meeting)
+  - [Hiring](#hiring)
+    - [References](#references)
+  - [Onboarding](#onboarding)
+  - [Managing up](#managing-up)
+  - [Announcing change](#announcing-change)
+  - [Standups](#standups)
+      - [Monday (on-call leads)](#monday-on-call-leads)
+      - [Wednesday (on-call leads)](#wednesday-on-call-leads)
+      - [Thursday (EM or PM leads)](#thursday-em-or-pm-leads)
+      - [Friday (on-call leads)](#friday-on-call-leads)
+  - [Further reading](#further-reading)
 
 ## Who is this for?
 
@@ -72,15 +83,16 @@ Do note that these recommendations primarily pertain to one-on-ones with individ
 
 Some general tips:
 
-1. Aim for 30min bi-weekly one-on-ones but offer to adjust cadence based on your teammate's preference.
-1. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
-1. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normally if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
+1. Aim for at least 45min fortnightly one-on-ones but offer to adjust cadence based on your teammate's preference.
+2. Reserve some time (10~15 minutes) just after the meeting, to have a buffer in case there are more things to talk that time permits, and also to have a moment to set any reminders for yourself if there are any action items on you.
+3. It's helpful to offer a shared document with your report where you can both write agenda items ahead of time and tracking action tiems. But it's also important to know when to go off script. Not all reports will value this.
+4. I find it helpful to do a healthcheck every month or quarter by asking these "scale of 1 to 10" questions. Normally if I get something other than a 9 or 10, I go deeper to understand. "On a scale of 1-10 how would you rate:..."
     - Predictability: How clear do you feel about what's expected of you?
     - Ownership: Your satisfaction with decision power and direction?
     - Purpose: How much your work makes a difference for the team?
     - Progress: The sense of progression each week?
     - Belonging: Your feeling of connection to the team?
-1. Additional questions to help motivate discussion:
+5. Additional questions to help motivate discussion:
     - Which part of your work is most fun?
     - What's not fun about working here?
     - What are the biggest time wasters for you each week?
