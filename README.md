@@ -281,16 +281,14 @@ What to look for in engineers:
 What to watch out for:
 
 1. **Short tenure at companies**. If a candidate typically stays at companies for less than a year, ask them why. There might be perfectly valid reasons or it might indicate a pattern that the person is difficult to work with.
-    1. Why did you only work at X for less than 1 year?
 1. **Menu of technologies**. Resumes that just list technologies used instead of problems solved may indicate person may not be thinking big picture. Also a typical trait of junior engineers.
 1. **Lack of curiosity**. Does the person ask questions about the company, product or team?
 1. **No career progression**. Does the person have a clear career progression? If not, why?
 1. **Role description**. Is this person just describing their job or are they sharing the actual impact they had at the company?
-1. **Lack of quantifiable metrics**. Does the person have metrics to show the impact of their work?
 
 Questions to ask yourself about the candidate:
 
-1. **Are they better than the average person on the team?** If not, you're not raising the bar.
+1. **Are they better than the average person on the team in some dimension?** If not, you're not raising the bar.
 2. **Do you admire this person and want to learn from them?** If not, you're not hiring people better than you.
 
 ### References
